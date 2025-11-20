@@ -1,12 +1,14 @@
 ### Retekess TH017 自动药物分配器 APP 使用说明书
 
+🇺🇸 [English](https://github.com/dennischancs/retekess-dispenser/blob/main/README.md) | 🇫🇷 [Français](https://github.com/dennischancs/retekess-dispenser/blob/main/README-FR.md) | 🇩🇪 [Deutsch](https://github.com/dennischancs/retekess-dispenser/blob/main/README-DE.md) | 🇮🇹 [Italiano](https://github.com/dennischancs/retekess-dispenser/blob/main/README-IT.md) | 🇪🇸 [Español](https://github.com/dennischancs/retekess-dispenser/blob/main/README-ES.md) | 🇷🇺 [Русский](https://github.com/dennischancs/retekess-dispenser/blob/main/README-RU.md) | 🇵🇹 [Português](https://github.com/dennischancs/retekess-dispenser/blob/main/README-PT.md) | 🇯🇵 [日本語](https://github.com/dennischancs/retekess-dispenser/blob/main/README-JP.md) | 🇨🇳 [简体中文](https://github.com/dennischancs/retekess-dispenser/blob/main/README-CN.md)
+
 ---
 
 ## 1. APP下载与安装
 
 通过以下方式在您或您的护理人员的智能手机上下载并安装iDispenser APP:
 
-![app_qr_code](./assets/app_qr_code.svg)
+<img src="./assets/app_qr_code@4x.webp" alt="app_qr_code" width="67%" />
 
 - iOS用户:访问App Store
 - Android用户:访问Google Play或直接下载
@@ -29,7 +31,7 @@
 
 ### 设备进入AP模式
 
-![1](./assets/1.svg)
+<img src="./assets/1.svg" alt="1"  width="40%"  />
 
 1. 在设备的主页时钟模式下,长按设备的"+"按钮3秒进入Wi-Fi AP模式；
 2. 此时扬声器会播报"AP Mode"语音,LED灯开始闪烁；
@@ -57,19 +59,19 @@
 3. 点击要连接的药物分配器
 4. 确保药物分配器已插电并处于AP模式,然后点击"下一步"
 
-<img src="./assets/5.svg" alt="5" style="zoom:67%;" />
+<img src="./assets/5@4x.webp" alt="5" width="60%" />
 
 5. 输入Wi-Fi密码(与手机Wi-Fi密码相同),点击"下一步"
 
-<img src="./assets/6.svg" alt="6" style="zoom:50%;" />
+<img src="./assets/6@4x.webp" alt="6"  width="25%" />
 
 6. 进入AP模式页面,点击"下一步"
 
-<img src="./assets/7.svg" alt="7" style="zoom:67%;" />
+<img src="./assets/7@4x.webp" alt="7"  width="85%"  />
 
 7. 点击"去连接"(Go to Connect),选择匹配的Wi-Fi SSID
 
-<img src="./assets/8.svg" alt="8" style="zoom:67%;" />
+<img src="./assets/8@4x.webp" alt="8"  width="85%" />
 
 8. 前往手机的Wi-Fi设置,从列表中选择"TH017-XXXX"连接分配器
 9. 返回APP,等待移动设备和药物分配器连接
@@ -78,9 +80,9 @@
 
 ### 连接成功标识
 
-Wi-Fi连接成功后,设备的显示屏上会显示"<img src="./assets/2.svg" alt="2" style="zoom:2%;" />"符号。
+Wi-Fi连接成功后,设备的显示屏上会显示"<img src="./assets/2.svg" alt="2"  width="3%" />"符号。
 
-<img src="./assets/9.svg" alt="9" style="zoom:67%;" />
+<img src="./assets/9@4x.webp" alt="9" width="85%" />
 
 ### 连接失败排查
 
@@ -96,7 +98,7 @@ Wi-Fi连接成功后,设备的显示屏上会显示"<img src="./assets/2.svg" al
 
 ## 5. APP操作指南
 
-![21@4x](./assets/21@4x.webp)
+<img src="./assets/21@4x.webp" alt="21@4x" width="25%" />
 
 ### 5.1 设置用药计划
 
@@ -120,39 +122,27 @@ Wi-Fi连接成功后,设备的显示屏上会显示"<img src="./assets/2.svg" al
 
 #### 下次剂量(Next Dose)
 
-![22@4x](./assets/22@4x.webp)
-
-显示下次剂量的时间、剂量编号、总剂量数、下次剂量的备注,以及提前服药的选项
+<img src="./assets/22@4x.webp" alt="22@4x" width="15%" />显示下次剂量的时间、剂量编号、总剂量数、下次剂量的备注,以及提前服药的选项
 
 #### 日周期(Day Cycle)
 
-![23@4x](./assets/23@4x.webp)
-
-显示当前选择的日周期
+<img src="./assets/23@4x.webp" alt="23@4x" width="15%" />显示当前选择的日周期
 
 #### 活动槽位(Active Slots)
 
-![24@4x](./assets/24@4x.webp)
-
-显示正在使用的药盒数量(例:21个活动槽位)
+<img src="./assets/24@4x.webp" alt="24@4x" width="15%" />显示正在使用的药盒数量(例:21个活动槽位)
 
 #### 结束时间(Ends)
 
-![25@4x](./assets/25@4x.webp)
-
-显示药物分配器需要重新装填的日期
+<img src="./assets/25@4x.webp" alt="25@4x" width="15%" />显示药物分配器需要重新装填的日期
 
 #### 剩余剂量(Doses Left)
 
-![26@4x](./assets/26@4x.webp)
-
-显示还有多少剂量需要服用(例:21剂剩余)
+<img src="./assets/26@4x.webp" alt="26@4x" width="15%" />显示还有多少剂量需要服用(例:21剂剩余)
 
 #### 插头图标
 
-<img src="./assets/28.svg" alt="28" style="zoom:50%;" />
-
-表示药物分配器已插上电源线
+<img src="./assets/28.svg" alt="28" width="8%" /> 表示药物分配器已插上电源线
 
 **注意:** 如果药物分配器拔掉电源,插头图标将从仪表盘消失。
 
@@ -176,7 +166,7 @@ Wi-Fi连接成功后,设备的显示屏上会显示"<img src="./assets/2.svg" al
 
 **注意:** 如果您试图提前一天服药,"提前服用"按钮将不起作用。
 
-![29@4x](./assets/29@4x.webp)
+<img src="./assets/29@4x.webp" alt="29@4x" width="25%" />
 
 ### 5.4 活动概述(Activity Overview)
 
@@ -198,7 +188,7 @@ Wi-Fi连接成功后,设备的显示屏上会显示"<img src="./assets/2.svg" al
 
 **注意:** 记录将在14天后开始删除。
 
-![210@4x](./assets/210@4x.webp)
+<img src="./assets/210@4x.webp" alt="210@4x" width="25%" />
 
 ### 5.5 闹钟概述(Alarms Overview)
 
@@ -211,7 +201,7 @@ Wi-Fi连接成功后,设备的显示屏上会显示"<img src="./assets/2.svg" al
 2. 调整时间或编辑该闹钟的备注
 3. 点击"保存"(Save)确认更改
 
-![211@4x](./assets/211@4x.webp)
+<img src="./assets/211@4x.webp" alt="211@4x" width="25%" />
 
 ### 5.6 设置概述(Settings Overview)
 
@@ -239,11 +229,11 @@ Wi-Fi连接成功后,设备的显示屏上会显示"<img src="./assets/2.svg" al
 
 - **全部重置(Reset All):** 重置所有内容,重新开始
 
-![212@4x](./assets/212@4x.webp)
+<img src="./assets/212@4x.webp" alt="212@4x" width="25%" />
 
 ### 5.7 选项概述(Options Overview)
 
-点击屏幕右上角的选项![3](./assets/3.svg)图标进入选项界面。
+点击屏幕右上角的选项<img src="./assets/3.svg" alt="3" width="3%" />图标进入选项界面。
 
 在此界面可以:
 - 查看设备信息
@@ -266,7 +256,7 @@ iDispenser APP会在药物分配器需要更新时通知您:
 
 在主页选择: Me → Settings → APP notification
 
-<img src="./assets/11.svg" alt="11" style="zoom:67%;" />
+<img src="./assets/11@4x.webp" alt="11" width="85%" />
 
 ### 6.2 移除设备
 
@@ -275,7 +265,7 @@ iDispenser APP会在药物分配器需要更新时通知您:
 3. 点击"移除设备"(Remove device)图标
 4. 点击"完成"(Done)返回主页
 
-<img src="./assets/10.svg" alt="10" style="zoom:67%;" />
+<img src="./assets/10@4x.webp" alt="10" width="60%"/>
 
 ---
 

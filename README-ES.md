@@ -1,175 +1,342 @@
-# Guía de uso del Asistente IA SVBONY
+### Manual de Usuario de la Aplicación del Dispensador Automático de Pastillas Retekess TH017
 
-🇺🇸 [English](https://github.com/dennischancs/svbony-ai-assistant/blob/main/README.md) | 🇫🇷 [Français](https://github.com/dennischancs/svbony-ai-assistant/blob/main/README-FR.md) | 🇩🇪 [Deutsch](https://github.com/dennischancs/svbony-ai-assistant/blob/main/README-DE.md) | 🇮🇹 [Italiano](https://github.com/dennischancs/svbony-ai-assistant/blob/main/README-IT.md) | 🇪🇸 [Español](https://github.com/dennischancs/svbony-ai-assistant/blob/main/README-ES.md) | 🇷🇺 [Русский](https://github.com/dennischancs/svbony-ai-assistant/blob/main/README-RU.md) | 🇵🇹 [Português](https://github.com/dennischancs/svbony-ai-assistant/blob/main/README-PT.md) | 🇯🇵 [日本語](https://github.com/dennischancs/svbony-ai-assistant/blob/main/README-JP.md) | 🇨🇳 [简体中文](https://github.com/dennischancs/svbony-ai-assistant/blob/main/README-CN.md)
+🇺🇸 [English](https://github.com/dennischancs/retekess-dispenser/blob/main/README.md) | 🇫🇷 [Français](https://github.com/dennischancs/retekess-dispenser/blob/main/README-FR.md) | 🇩🇪 [Deutsch](https://github.com/dennischancs/retekess-dispenser/blob/main/README-DE.md) | 🇮🇹 [Italiano](https://github.com/dennischancs/retekess-dispenser/blob/main/README-IT.md) | 🇪🇸 [Español](https://github.com/dennischancs/retekess-dispenser/blob/main/README-ES.md) | 🇷🇺 [Русский](https://github.com/dennischancs/retekess-dispenser/blob/main/README-RU.md) | 🇵🇹 [Português](https://github.com/dennischancs/retekess-dispenser/blob/main/README-PT.md) | 🇯🇵 [日本語](https://github.com/dennischancs/retekess-dispenser/blob/main/README-JP.md) | 🇨🇳 [简体中文](https://github.com/dennischancs/retekess-dispenser/blob/main/README-CN.md)
 
-### Inicio Rápido
+---
 
-1. Descargue el binario adecuado desde las [Releases de GitHub](https://github.com/dennischancs/svbony-ai-assistant/releases/latest) para su plataforma, por ejemplo: macOS (x86_64, aarch64/Apple Silicon), Windows (x86_64)
-2. Extraiga el archivo comprimido
-3. Ejecute el binario
+## 1. Descarga e Instalación de la Aplicación
 
-## Dispositivos compatibles
-- SVBONY SVHub Omni2P (VID: 0xe2b7, PID: 0x5053)
-- SVBONY SVHub M6 (VID: 0xe2b7, PID: 0x364d)
-- SVBONY SVN O1 (VID: 0x2757, PID: 0x4010)
+Descargue e instale la aplicación iDispenser en su smartphone o en el de su cuidador mediante los siguientes métodos:
 
-## Introducción
-El Asistente IA SVBONY es una herramienta diseñada para monitorear los eventos de presión del botón IA en los dispositivos SVBONY compatibles y ejecutar acciones configuradas como abrir URLs, ejecutar comandos, enviar pulsaciones de teclas (en desarrollo), o mostrar notificaciones. Esta herramienta es compatible con sistemas Windows, macOS, y puede configurarse para iniciarse automáticamente al arrancar el sistema.
+<img src="./assets/app_qr_code@4x.webp" alt="app_qr_code" width="67%" />
 
-## Características
-- Monitorear eventos de presión del botón IA en los dispositivos SVBONY SVHub Omni2P y M6.
-- Soportar múltiples acciones: abrir URLs, ejecutar comandos, enviar pulsaciones de teclas (en desarrollo), mostrar notificaciones.
-- Soportar ejecución en segundo plano (daemon) o primer plano (con logs).
-- Inicio automático al arrancar el sistema (configurable, y auto-configuración en el primer inicio si está habilitado).
-- Comprobación de instancia única en modo background.
-- Apagado seguro mediante señales del sistema (Ctrl+C, SIGTERM).
-- Configuración y registro detallados.
-- Soporte de notificaciones multiplataforma (Windows Toast, macOS osascript).
+- Usuarios de iOS: Visite App Store
+- Usuarios de Android: Visite Google Play o descargue directamente
 
-## Instalación y uso
+---
 
-### Instalación desde binarios precompilados
-Si no deseas compilar el código por ti mismo, puedes descargar directamente los binarios precompilados y seguir estos pasos:
-1. Descarga el archivo binario adecuado para tu sistema operativo.
-2. Extrae el archivo descargado.
-3. Abre una terminal o línea de comandos y navega al directorio extraído.
-4. Ejecuta el comando `svbony-ai-assistant` para iniciar el programa.
+## 2. Registro de Cuenta
 
-### Compilación desde código fuente
-Si deseas compilar el programa desde código fuente, puedes seguir estos pasos:
+Si está usando iDispenser por primera vez, por favor cree una cuenta:
 
-#### Preparación del entorno
-Asegúrate de tener instalado el entorno de desarrollo de Rust. Si no lo tienes, puedes descargarlo e instalarlo desde el [sitio web oficial de Rust](https://www.rust-lang.org/tools/install).
+1. Abra la aplicación iDispenser y haga clic en "Registrarse"
+2. Acepte los términos y condiciones de la Política de Privacidad
+3. Introduzca una dirección de correo electrónico válida o número de teléfono para verificación
+4. Obtenga el código de verificación e introdúzcalo
+5. Cree una contraseña e inicie sesión
 
-#### Clonar el repositorio de código
-```bash
-git clone https://github.com/dennischancs/svbony-ai-assistant.git
-cd svbony-ai-assistant
-```
+---
 
-#### Compilar el programa
-```bash
-cargo build --release
-```
-Después de la compilación, el archivo ejecutable estará ubicado en el directorio `target/release`.
+## 3. Configuración de Conexión Wi-Fi
 
-### Ejecutar el programa
-Después de la compilación, puedes ejecutar el programa usando el siguiente comando:
-```bash
-./target/release/svbony-ai-assistant
-```
+### Dispositivo Entrando en Modo AP
 
-## Argumentos de línea de comandos
-| Argumento | Descripción |
-| ---- | ---- |
-| `-f, --foreground` | Ejecutar en modo primer plano, mostrando todos los mensajes de registro en la consola y manteniendo la aplicación vinculada al terminal. Adecuado para depuración o monitoreo manual. |
-| `-b, --background` | Ejecutar en modo segundo plano como proceso daemon. La aplicación se desvinculará del terminal y funcionará silenciosamente en segundo plano. Este es el comportamiento predeterminado cuando se lanza desde una GUI. |
-| `--enable-autostart` | Configurar la aplicación para iniciarse automáticamente cuando el sistema arranque. Esto creará las entradas de inicio automático necesarias para tu sistema operativo. |
-| `--disable-autostart` | Quitar la aplicación del inicio automático. La aplicación no se iniciará automáticamente cuando el sistema arranque. |
-| `-c, --show-config` | Mostrar la ruta y el contenido del archivo de configuración actual, luego salir sin iniciar el servicio de monitoreo. |
-| `-r, --regenerate-config` | Restablecer los archivos de configuración a los valores de fábrica. Si existe una configuración del sistema, se hará una copia de seguridad como config.json.old antes de reemplazarla. Todos los archivos config.json se restablecerán a los valores predeterminados. |
-| `-v, --verbose` | Habilitar salida de registro detallada. Esto mostrará mensajes de depuración e información detallada sobre la comunicación del dispositivo. |
-| `-q, --quiet` | Ejecutar en modo silencioso, suprimiendo toda salida de registro excepto mensajes de error. |
-| `-V, --version` | Mostrar información de versión. |
+<img src="./assets/1.svg" alt="1"  width="40%"  />
 
-### Ejemplos de uso
-```bash
-# Ejecutar en modo primer plano con registro detallado
-./target/release/svbony-ai-assistant --foreground --verbose
+1. En el modo reloj principal del dispositivo, mantenga presionado el botón "+" del dispositivo durante 3 segundos para entrar en modo Wi-Fi AP;
+2. En este momento, el altavoz emitirá la voz "AP Mode" y la luz LED comenzará a parpadear;
+3. Si no hay operación dentro de 3 minutos, el dispositivo saldrá automáticamente del modo AP y volverá al modo reloj principal;
+4. Mantenga presionado el botón "+" del dispositivo durante 3 segundos nuevamente para salir del modo AP.
 
-# Ejecutar en modo segundo plano y habilitar inicio automático
-./target/release/svbony-ai-assistant --enable-autostart
-./target/release/svbony-ai-assistant
+**Nota:** Es necesario habilitar Bluetooth y servicios de ubicación para emparejar el dispensador de pastillas con el dispositivo móvil.
 
-# Mostrar la configuración actual
-./target/release/svbony-ai-assistant --show-config
+---
 
-# Regenerar archivos de configuración por defecto
-./target/release/svbony-ai-assistant --regenerate-config
-```
+## 4. Métodos de Emparejamiento del Dispositivo
 
-## Tipos de acción
-- `OpenUrl`: Abrir una URL en el navegador predeterminado.
-- `RunCommand`: Ejecutar un comando del sistema con argumentos opcionales.
-- `SendKeys`: (En desarrollo) Simular pulsaciones de teclas.
-- `ShowNotification`: Mostrar una notificación del sistema con título y mensaje.
+### Método 1: Escaneo Automático
 
-## Archivo de configuración
-El archivo de configuración se utiliza para definir el comportamiento y las acciones de la aplicación. El archivo de configuración puede ubicarse en las siguientes ubicaciones:
-- **Windows**: `%APPDATA%\SVBONY-AI-Assistant\config.json`
-- **macOS**: `~/Library/Application Support/SVBONY-AI-Assistant/config.json`
-- O `config.json` en el mismo directorio que el archivo ejecutable
+1. Abra la aplicación iDispenser y haga clic en "Agregar Dispositivo" en la página principal de la APP
+2. Espere a que el escaneo automático encuentre el dispensador de pastillas en la sección "Descubriendo Dispositivos"
+3. Cuando aparezca el dispensador de pastillas a conectar, haga clic en "Ir a Agregar"
+4. Ingrese el nombre de la red Wi-Fi y la contraseña, luego haga clic en "Siguiente"
+5. Espere a que el dispositivo móvil y el dispensador de pastillas se conecten
 
-Si el archivo de configuración no existe, la aplicación utilizará la configuración predeterminada y creará un archivo de configuración en la ubicación anterior.
+### Método 2: Agregar Manualmente
 
-### Ejemplo de archivo de configuración
-```json
-{
-  "actions": [
-    {
-      "name": "Abrir app.notta.ai",
-      "action_type": "OpenUrl",
-      "parameters": {
-        "url": "https://app.notta.ai",
-        "command": null,
-        "args": null,
-        "keys": null,
-        "message": null,
-        "title": null
-      },
-      "enabled": true
-    },
-    {
-      "name": "Mostrar notificación de Asistente IA",
-      "action_type": "ShowNotification",
-      "parameters": {
-        "url": null,
-        "command": null,
-        "args": null,
-        "keys": null,
-        "message": "¡Asistente IA activado!",
-        "title": "Asistente IA SVBONY"
-      },
-      "enabled": true
-    }
-  ],
-  "settings": {
-    "auto_start": true,
-    "minimize_to_tray": true,
-    "log_level": "info",
-    "check_updates": true
-  },
-  "version": "0.1.0"
-}
-```
+1. Abra la aplicación iDispenser y haga clic en el botón "⊕" en la página principal de la APP para ingresar a la página "Agregar Dispositivo"
+2. Seleccione Otros → Otros(Wi-Fi)
+3. Haga clic en el dispensador de pastillas a conectar
+4. Asegúrese de que el dispensador de pastillas esté alimentado y en modo AP, luego haga clic en "Siguiente"
 
-### Compatibilidad de versiones
-El archivo de configuración incluye un campo `version` que coincide con la versión de la aplicación. Cuando actualices la aplicación:
-- Si la versión del archivo de configuración no coincide con la versión de la aplicación, la aplicación automáticamente:
-  1. Hará una copia de seguridad de la configuración existente como `config.json.old`
-  2. Creará un nuevo archivo de configuración con los valores predeterminados de fábrica
-- Esto garantiza la compatibilidad entre tu configuración y la versión de la aplicación
-- Los ajustes antiguos pueden encontrarse en el archivo de copia de seguridad si es necesario
+<img src="./assets/5@4x.webp" alt="5" width="60%" />
 
-## Configuración de inicio automático
-- Si `auto_start` está habilitado en la configuración, la aplicación intentará configurar el inicio automático en el primer inicio.
-- También puedes habilitar/deshabilitar manualmente el inicio automático mediante `--enable-autostart` y `--disable-autostart`.
+5. Ingrese la contraseña Wi-Fi (la misma que la contraseña Wi-Fi del teléfono móvil), haga clic en "Siguiente"
 
-## Notificaciones
-- **Windows**: Usa notificaciones Toast (PowerShell), con alternativa a notificaciones balloon.
-- **macOS**: Usa `osascript` para notificaciones del sistema.
+<img src="./assets/6@4x.webp" alt="6"  width="25%" />
 
-## Solución de problemas
-- **Registro**: Puedes usar el argumento `--verbose` para habilitar el registro detallado para una mejor solución de problemas.
-- **Comprobación de instancia única**: Si la aplicación falla al iniciarse en modo background, puede ser porque otra instancia ya está ejecutándose. Puedes usar el argumento `--foreground` para iniciar múltiples instancias para depuración.
-- **Problemas del archivo de configuración**: Si hay problemas con el archivo de configuración, puedes intentar eliminar el archivo de configuración y reiniciar la aplicación. La aplicación utilizará la configuración predeterminada y recreará el archivo de configuración.
+6. En la página del modo AP, haga clic en "Siguiente"
 
-## Contribución
-Si deseas contribuir al proyecto Asistente IA SVBONY, sigue estos pasos:
-1. Clona el repositorio de código.
-2. Crea una nueva rama.
-3. Haz modificaciones y pruebas.
-4. Envía una pull request.
+<img src="./assets/7@4x.webp" alt="7"  width="85%"  />
 
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+7. Haga clic en "Ir a Conectar" y seleccione el SSID Wi-Fi coincidente
+
+<img src="./assets/8@4x.webp" alt="8"  width="85%" />
+
+8. Vaya a la configuración Wi-Fi del teléfono y seleccione "TH017-XXXX" de la lista para conectar el dispensador
+9. Regrese a la APP y espere a que el dispositivo móvil y el dispensador de pastillas se conecten
+10. Después de una conexión exitosa, haga clic en "Hecho"
+11. Después de una conexión AP exitosa, haga clic en "Atrás" para regresar a la página "Agregar Dispositivo"
+
+### Indicador de Conexión Exitosa
+
+Después de una conexión Wi-Fi exitosa, se mostrará el símbolo "<img src="./assets/2.svg" alt="2"  width="3%" />" en la pantalla del dispositivo.
+
+<img src="./assets/9@4x.webp" alt="9" width="85%" />
+
+### Solución de Problemas de Fallos de Conexión
+
+Si falla la conexión Wi-Fi, por favor verifique los siguientes aspectos:
+
+1. ¿Son correctos el SSID Wi-Fi y la contraseña?
+2. ¿Su Wi-Fi es de 5GHz? Por favor configúrelo a 2.4GHz.
+3. Reiniciar el dispositivo: Mantenga presionado el botón "+" del dispositivo para volver a entrar en modo AP y reconectar Wi-Fi.
+
+**Nota Importante:** Una vez que el dispensador de pastillas se conecta al dispositivo móvil, la hora mostrada en el dispensador se sincronizará con la hora del dispositivo móvil. Si el dispositivo móvil se mueve a una zona horaria diferente, la hora del dispensador de pastillas no cambiará a menos que se vuelva a emparejar.
+
+---
+
+## 5. Guía de Operación de la APP
+
+<img src="./assets/21@4x.webp" alt="21@4x" width="25%" />
+
+### 5.1 Configuración del Horario de Medicamentos
+
+Cuando opere el dispensador de pastillas a través de la APP por primera vez, necesita configurar un horario de medicamentos:
+
+1. En el Tablero, haga clic en "Configurar"
+2. Haga clic en "Dosis por día" para seleccionar el número de dosis por día
+3. Haga clic en "Guardar" para guardar la selección de dosis
+
+**Nota:** Puede abrir "Desbloquear Duración del Ciclo" para personalizar el ciclo diario si el ciclo diario preestablecido no cumple con sus necesidades.
+
+4. Seleccione períodos de tiempo de alarma para establecer alarmas
+5. Establezca horas para los períodos de alarma seleccionados, agregue observaciones si es necesario
+
+**Nota:** No se puede establecer repetidamente la misma hora de alarma.
+
+6. Después de configurar todas las alarmas, aparecerá una ventana emergente. Haga clic en "Aceptar" en la ventana emergente. El dispensador girará automáticamente la bandeja de vuelta a la posición inicial
+7. Aparecerá otra ventana emergente, indicando que su bandeja está lista. Haga clic en "Aceptar" en la ventana emergente
+
+### 5.2 Vista General del Tablero
+
+#### Próxima Dosis
+
+<img src="./assets/22@4x.webp" alt="22@4x" width="15%" /> Muestra la hora de la próxima dosis, número de dosis, dosis totales, observaciones para la próxima dosis, y la opción de tomar medicina por adelantado
+
+#### Ciclo Diario
+
+<img src="./assets/23@4x.webp" alt="23@4x" width="15%" /> Muestra el ciclo diario actualmente seleccionado
+
+#### Compartimentos Activos
+
+<img src="./assets/24@4x.webp" alt="24@4x" width="15%" /> Muestra el número de cajas de medicamentos en uso (por ejemplo, 21 compartimentos activos)
+
+#### Finaliza
+
+<img src="./assets/25@4x.webp" alt="25@4x" width="15%" /> Muestra la fecha en que el dispensador de pastillas necesita ser rellenado
+
+#### Dosis Restantes
+
+<img src="./assets/26@4x.webp" alt="26@4x" width="15%" /> Muestra cuántas dosis quedan por tomar (por ejemplo, 21 dosis restantes)
+
+#### Icono de Enchufe
+
+<img src="./assets/28.svg" alt="28" width="8%" /> Indica que el dispensador de pastillas está conectado al cable de alimentación
+
+**Nota:** Si el dispensador de pastillas se desconecta, el icono del enchufe desaparecerá del tablero.
+
+### 5.3 Recordatorio de Medicamentos
+
+Cuando es hora de tomar medicamentos:
+
+1. La ventana de la próxima dosis se volverá roja
+2. Sonará la alarma (si el dispensador no está silenciado)
+3. Haga clic en "Silenciar esta alarma" para apagar la alarma
+4. Después de tomar los medicamentos, la ventana de la próxima dosis volverá a azul y mostrará la próxima dosis programada
+5. El sensor incorporado en el dispensador de pastillas puede detectar cuando se sacan medicamentos de la caja de medicamentos
+
+#### Tomar Medicamentos por Adelantado
+
+Para tomar medicamentos antes de la hora establecida:
+1. Haga clic en "Tomar por adelantado"
+2. Aparecerá una ventana emergente confirmando su elección, haga clic en "Aceptar"
+3. Al igual que en la hora programada, la ventana de la próxima dosis se volverá roja y sonará la alarma
+4. Entonces puede tomar la medicina normalmente
+
+**Nota:** Si intenta tomar medicamentos un día antes, el botón "Tomar por adelantado" no funcionará.
+
+<img src="./assets/29@4x.webp" alt="29@4x" width="25%" />
+
+### 5.4 Vista General de Actividades
+
+La interfaz de actividades muestra registros de cuándo los usuarios tomaron sus medicamentos:
+
+- **Símbolo Verde:** Tomó medicina a tiempo
+- **Símbolo Amarillo:** Tomó medicina tarde
+- **Símbolo Rojo:** Se perdió la medicina
+
+Puede hacer clic en el icono de observación junto al tiempo para ver observaciones para esa dosis específica.
+
+#### Determinación del Tiempo de Medicamentos
+
+- **A Tiempo:** Tomó medicina durante la duración de alarma establecida
+- **Tarde:** Tomó medicina después de la duración de alarma pero antes de la próxima alarma
+- **Perdido:** Nunca tomó medicina y ya ha sonado la próxima alarma
+
+La duración de alarma está establecida en 30 minutos por defecto, pero se puede ajustar (ver sección "Vista General de Configuración").
+
+**Nota:** Los registros comenzarán a eliminarse después de 14 días.
+
+<img src="./assets/210@4x.webp" alt="210@4x" width="25%" />
+
+### 5.5 Vista General de Alarmas
+
+La interfaz de alarmas le permite editar alarmas establecidas o configurar un nuevo horario de medicamentos.
+
+**Nota:** Si se establece un nuevo horario de medicamentos, el dispensador de pastillas girará automáticamente y se reiniciará a la posición inicial.
+
+**Editar Alarmas:**
+1. Haga clic en uno de los períodos de tiempo de alarma
+2. Ajuste la hora o edite las observaciones para esa alarma
+3. Haga clic en "Guardar" para confirmar los cambios
+
+<img src="./assets/211@4x.webp" alt="211@4x" width="25%" />
+
+### 5.6 Vista General de Configuración
+
+La interfaz de configuración le permite cambiar las siguientes opciones:
+
+- **Formato de Fecha:** Cambiar el formato de visualización de fecha
+
+- **Hora de 24 Horas:** Activar para mostrar la hora en formato de 24 horas
+
+- **Volumen:** Ajustar entre alto, medio, bajo y silenciar
+
+- **Tono de Alarma:** Elegir entre 2 tonos de alarma
+
+- **Duración de Alarma:** Ajustar la duración de alarma, rango seleccionable de 5 minutos a 2 horas
+
+- **Notificaciones Push:** Activar notificaciones para recibir los siguientes recordatorios:
+  - Recordatorio de relleno
+  - Recordatorio de preparación de medicamentos
+  - Recordatorio de medicamentos tomados
+  - Recordatorio de medicamentos perdidos
+  
+  Estas notificaciones se recibirán incluso cuando la APP no esté abierta. Puede activar todas o parte de las notificaciones.
+
+- **Restablecer Alarmas:** Restablecer todas las alarmas
+
+- **Restablecer Todo:** Restablecer todo y comenzar de nuevo
+
+<img src="./assets/212@4x.webp" alt="212@4x" width="25%" />
+
+### 5.7 Vista General de Opciones
+
+Haga clic en el icono de opciones <img src="./assets/3.svg" alt="3" width="3%" /> en la esquina superior derecha de la pantalla para ingresar a la interfaz de opciones.
+
+En esta interfaz puede:
+- Ver información del dispositivo
+- Ver red del dispositivo
+- Cambiar el nombre del dispensador de pastillas
+- Compartir información del dispensador de pastillas con otros usuarios de la APP
+- Eliminar completamente el dispositivo de la APP
+
+#### Actualizaciones del Dispositivo
+
+La aplicación iDispenser le notificará cuando el dispensador de pastillas necesite actualizarse:
+1. Cuando aparezca una ventana emergente, haga clic en "Actualizar Ahora" para ingresar a la página de actualización del dispositivo
+2. Haga clic en "Actualizar" para comenzar la actualización
+
+---
+
+## 6. Gestión del Dispositivo
+
+### 6.1 Configuración de Notificaciones de la APP
+
+En la página principal, seleccione: Yo → Configuración → Notificación de APP
+
+<img src="./assets/11@4x.webp" alt="11" width="85%" />
+
+### 6.2 Eliminar Dispositivo
+
+1. En la página principal, mantenga presionado el icono "Dispositivo" durante 2 segundos para ingresar a la página "Dispositivo Seleccionado"
+2. Seleccione uno o más dispositivos para eliminar
+3. Haga clic en el icono "Eliminar dispositivo"
+4. Haga clic en "Hecho" para regresar a la página principal
+
+<img src="./assets/10@4x.webp" alt="10" width="60%"/>
+
+---
+
+## 7. Operación del Dispensador de Pastillas
+
+### Pasos Básicos de Operación
+
+1. **Seleccionar Anillo de Dosis Diaria:** Seleccione el anillo de dosis diaria que satisfaga sus necesidades (por favor consulte la sección "Entendiendo los Anillos de Dosis Diaria" en el manual)
+
+2. **Colocar Anillo de Dosis y Medicamentos:**
+   - Coloque el anillo de dosis diaria en el centro de la caja de medicamentos interna
+   - Coloque los medicamentos en la caja de medicamentos correspondiente al tiempo de dosificación (1ª, 2ª, 3ª, etc.)
+   - Coloque según los números en el anillo (1, 2, 3, etc.)
+   - No coloque ningún medicamento en las secciones blancas
+   - Cuando vea el blanco acercándose al puerto de dispensación, es hora de rellenar
+
+3. **Instalar Baterías:** Por favor consulte la sección "Instalación de Baterías" en el manual
+
+4. **Desbloquear Tapa:**
+   - Use la llave para desbloquear la tapa (por favor consulte la sección "Bloqueo y Desbloqueo de la Tapa")
+   - Coloque la copa de medicamentos dentro del cuerpo principal
+
+5. **Conectar Cable de Alimentación**
+
+6. **Conectar a Red Wi-Fi:** Use la aplicación iDispenser para conectar (por favor consulte la sección "Configuración Wi-Fi")
+
+7. **Establecer Hora:** Por favor consulte la sección "Establecer Hora" en el manual
+
+8. **Ajustar Configuraciones:**
+   - Ajuste el volumen, formato de fecha y formato de hora desde la aplicación iDispenser (por favor consulte la sección "Vista General de Configuración")
+   - O ajuste el volumen de alarma, tipo de alarma en el dispensador, y seleccione formato de 12 o 24 horas (por favor consulte las secciones relevantes en el manual)
+
+9. **Establecer Horas de Medicamentos:**
+   - Establezca el horario de medicamentos desde la aplicación iDispenser (por favor consulte la sección "Configuración del Horario de Medicamentos")
+   - O establezca horas de alarma de medicamentos en el dispensador (por favor consulte la sección "Establecer Alarmas" en el manual)
+
+10. **Bloquear Tapa:** Use la llave provista para cerrar y bloquear la tapa
+
+11. **Dispensación Automática:** En la hora designada de medicamentos, sonará la alarma y la copa de medicamentos se empujará automáticamente hacia afuera
+
+12. **Detener Alarma:** Al retirar la copa de medicamentos, la alarma debería detenerse automáticamente
+
+13. **Devolver Copa de Medicamentos:** Después de tomar la medicina, coloque la copa de medicamentos de vuelta en la salida hasta que escuche un sonido de "clic", indicando que la copa de medicamentos está en la posición correcta
+
+14. **Colocar Dispositivo:** Coloque el dispensador de pastillas en una superficie plana
+
+---
+
+## 8. Cuidado y Mantenimiento
+
+- **Limpiar Exterior:** Limpie el exterior con un paño suave y húmedo. No use limpiadores abrasivos
+
+- **Limpiar Caja de Medicamentos Interna:**
+  - Si es necesario, retire la caja de medicamentos interna
+  - Enjuague/limpie suavemente cada compartimento de medicamentos
+  - Deje que el contenedor se seque completamente antes de reposicionarlo o rellenarlo
+
+- **Aviso de Impermeabilidad:** No sumerja el dispensador de pastillas externo en agua o cualquier otro líquido
+
+- **Mantener Limpieza:** Asegúrese de que la caja de medicamentos interna esté limpia y seca antes de rellenar
+
+---
+
+## Notas
+
+- Wi-Fi, WPA y WPA2 son marcas comerciales de Wi-Fi Alliance en Estados Unidos y/o otros países
+- Bluetooth es una marca comercial de Bluetooth SIG, Inc. EE.UU
+- Android y Google Play son marcas comerciales de Google LLC
+- Apple, iOS y App Store son marcas comerciales de Apple Inc. en Estados Unidos y otros países
+- Todos los demás nombres de productos, nombres de marcas, nombres de empresas y logotipos son marcas comerciales de sus respectivos propietarios, utilizadas solo con fines de identificación y no implican ningún patrocinio, respaldo o aprobación
+
+---
+
+**Si tiene alguna pregunta, por favor contacte al servicio al cliente de Retekess. La información de contacto se puede encontrar en la caja del empaque del producto o en el manual impreso**
