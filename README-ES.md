@@ -1,342 +1,323 @@
-### Manual de Usuario de la Aplicación del Dispensador Automático de Pastillas Retekess TH017
+### Manual de usuario de la APP del dispensador automático de pastillas Retekess TH017
 
 🇺🇸 [English](https://github.com/dennischancs/retekess-dispenser/blob/main/README.md) | 🇫🇷 [Français](https://github.com/dennischancs/retekess-dispenser/blob/main/README-FR.md) | 🇩🇪 [Deutsch](https://github.com/dennischancs/retekess-dispenser/blob/main/README-DE.md) | 🇮🇹 [Italiano](https://github.com/dennischancs/retekess-dispenser/blob/main/README-IT.md) | 🇪🇸 [Español](https://github.com/dennischancs/retekess-dispenser/blob/main/README-ES.md) | 🇷🇺 [Русский](https://github.com/dennischancs/retekess-dispenser/blob/main/README-RU.md) | 🇵🇹 [Português](https://github.com/dennischancs/retekess-dispenser/blob/main/README-PT.md) | 🇯🇵 [日本語](https://github.com/dennischancs/retekess-dispenser/blob/main/README-JP.md) | 🇨🇳 [简体中文](https://github.com/dennischancs/retekess-dispenser/blob/main/README-CN.md)
 
 ---
 
-## 1. Descarga e Instalación de la Aplicación
+## 1. Descarga e instalación de la APP
 
-Descargue e instale la aplicación iDispenser en su smartphone o en el de su cuidador mediante los siguientes métodos:
+Descargue e instale la APP iDispenser en su smartphone o en el smartphone de su cuidador a través de los siguientes métodos:
 
 <img src="./assets/app_qr_code@4x.webp" alt="app_qr_code" width="67%" />
 
-- Usuarios de iOS: Visite App Store
+- Usuarios de iOS: Visite la App Store
 - Usuarios de Android: Visite Google Play o descargue directamente
 
 ---
 
-## 2. Registro de Cuenta
+## 2. Registro de cuenta e inicio de sesión
 
-Si está usando iDispenser por primera vez, por favor cree una cuenta:
+Si es la primera vez que usa iDispenser, cree una cuenta:
 
-1. Abra la aplicación iDispenser y haga clic en "Registrarse"
-2. Acepte los términos y condiciones de la Política de Privacidad
-3. Introduzca una dirección de correo electrónico válida o número de teléfono para verificación
-4. Obtenga el código de verificación e introdúzcalo
-5. Cree una contraseña e inicie sesión
+1. Abra la APP iDispenser y haga clic en "Registrarse"
+
+   <img src="./assets/301.webp" alt="301" width="35%" />
+
+2. Seleccione su país o región
+
+3. Marque para aceptar los términos y condiciones de la política de privacidad
+
+4. Ingrese una dirección de correo electrónico válida o un número de teléfono móvil para la verificación
+
+5. Obtenga e ingrese el código de verificación
+
+6. Cree una contraseña e inicie sesión
+
+7. Después de iniciar sesión, siga las instrucciones de la APP para aceptar y otorgar a la APP permisos de ubicación y Bluetooth para su dispositivo
+
+   <img src="./assets/302.webp" alt="302" width="35%" />
 
 ---
 
-## 3. Configuración de Conexión Wi-Fi
+## 3. Configuración de conexión Wi-Fi
 
-### Dispositivo Entrando en Modo AP
+**El dispositivo entra en modo AP**
 
 <img src="./assets/1.svg" alt="1"  width="40%"  />
 
-1. En el modo reloj principal del dispositivo, mantenga presionado el botón "+" del dispositivo durante 3 segundos para entrar en modo Wi-Fi AP;
-2. En este momento, el altavoz emitirá la voz "AP Mode" y la luz LED comenzará a parpadear;
-3. Si no hay operación dentro de 3 minutos, el dispositivo saldrá automáticamente del modo AP y volverá al modo reloj principal;
-4. Mantenga presionado el botón "+" del dispositivo durante 3 segundos nuevamente para salir del modo AP.
+1. En el modo de reloj principal del dispositivo, mantenga presionado el botón "+" del dispositivo durante 3 segundos para ingresar al modo AP de Wi-Fi;
+2. En este momento, el altavoz transmitirá la voz "AP Mode" y la luz LED comenzará a parpadear;
+3. Si no hay operación dentro de los 3 minutos, el dispositivo saldrá automáticamente del modo AP y volverá al modo de reloj principal;
+4. Mantenga presionado nuevamente el botón "+" del dispositivo durante 3 segundos para salir del modo AP.
 
-**Nota:** Es necesario habilitar Bluetooth y servicios de ubicación para emparejar el dispensador de pastillas con el dispositivo móvil.
-
----
-
-## 4. Métodos de Emparejamiento del Dispositivo
-
-### Método 1: Escaneo Automático
-
-1. Abra la aplicación iDispenser y haga clic en "Agregar Dispositivo" en la página principal de la APP
-2. Espere a que el escaneo automático encuentre el dispensador de pastillas en la sección "Descubriendo Dispositivos"
-3. Cuando aparezca el dispensador de pastillas a conectar, haga clic en "Ir a Agregar"
-4. Ingrese el nombre de la red Wi-Fi y la contraseña, luego haga clic en "Siguiente"
-5. Espere a que el dispositivo móvil y el dispensador de pastillas se conecten
-
-### Método 2: Agregar Manualmente
-
-1. Abra la aplicación iDispenser y haga clic en el botón "⊕" en la página principal de la APP para ingresar a la página "Agregar Dispositivo"
-2. Seleccione Otros → Otros(Wi-Fi)
-3. Haga clic en el dispensador de pastillas a conectar
-4. Asegúrese de que el dispensador de pastillas esté alimentado y en modo AP, luego haga clic en "Siguiente"
-
-<img src="./assets/5@4x.webp" alt="5" width="60%" />
-
-5. Ingrese la contraseña Wi-Fi (la misma que la contraseña Wi-Fi del teléfono móvil), haga clic en "Siguiente"
-
-<img src="./assets/6@4x.webp" alt="6"  width="25%" />
-
-6. En la página del modo AP, haga clic en "Siguiente"
-
-<img src="./assets/7@4x.webp" alt="7"  width="85%"  />
-
-7. Haga clic en "Ir a Conectar" y seleccione el SSID Wi-Fi coincidente
-
-<img src="./assets/8@4x.webp" alt="8"  width="85%" />
-
-8. Vaya a la configuración Wi-Fi del teléfono y seleccione "TH017-XXXX" de la lista para conectar el dispensador
-9. Regrese a la APP y espere a que el dispositivo móvil y el dispensador de pastillas se conecten
-10. Después de una conexión exitosa, haga clic en "Hecho"
-11. Después de una conexión AP exitosa, haga clic en "Atrás" para regresar a la página "Agregar Dispositivo"
-
-### Indicador de Conexión Exitosa
-
-Después de una conexión Wi-Fi exitosa, se mostrará el símbolo "<img src="./assets/2.svg" alt="2"  width="3%" />" en la pantalla del dispositivo.
-
-<img src="./assets/9@4x.webp" alt="9" width="85%" />
-
-### Solución de Problemas de Fallos de Conexión
-
-Si falla la conexión Wi-Fi, por favor verifique los siguientes aspectos:
-
-1. ¿Son correctos el SSID Wi-Fi y la contraseña?
-2. ¿Su Wi-Fi es de 5GHz? Por favor configúrelo a 2.4GHz.
-3. Reiniciar el dispositivo: Mantenga presionado el botón "+" del dispositivo para volver a entrar en modo AP y reconectar Wi-Fi.
-
-**Nota Importante:** Una vez que el dispensador de pastillas se conecta al dispositivo móvil, la hora mostrada en el dispensador se sincronizará con la hora del dispositivo móvil. Si el dispositivo móvil se mueve a una zona horaria diferente, la hora del dispensador de pastillas no cambiará a menos que se vuelva a emparejar.
+**Nota:** Es necesario activar Bluetooth y servicios de ubicación para emparejar el dispensador de pastillas con el dispositivo móvil.
 
 ---
 
-## 5. Guía de Operación de la APP
+## 4. Emparejamiento de dispositivos
 
-<img src="./assets/21@4x.webp" alt="21@4x" width="25%" />
+### 4.1 Completar el emparejamiento a través de Auto Scan
 
-### 5.1 Configuración del Horario de Medicamentos
+1. Abra la APP iDispenser, haga clic en "Agregar dispositivo" en la página principal de la APP
+2. Espere a que el escaneo automático encuentre el dispensador de pastillas en la sección "Descubriendo dispositivos", cuando aparezca el dispensador de pastillas al que desea conectarse, haga clic en "Agregar"
+3. Ingrese el nombre de la red Wi-Fi y la contraseña, luego haga clic en "Siguiente"
+4. Espere a que el dispositivo móvil y el dispensador de pastillas se conecten
 
-Cuando opere el dispensador de pastillas a través de la APP por primera vez, necesita configurar un horario de medicamentos:
+<img src="./assets/305.webp" alt="305" width="100%" />
 
-1. En el Tablero, haga clic en "Configurar"
-2. Haga clic en "Dosis por día" para seleccionar el número de dosis por día
-3. Haga clic en "Guardar" para guardar la selección de dosis
+5. Después de que la conexión Wi-Fi se realice correctamente, la APP muestra "added successfully", haga clic en "Done" para regresar. En este momento, la pantalla del dispositivo mostrará el símbolo "<img src="./assets/2.svg" alt="2"  width="3%" />" .
 
-**Nota:** Puede abrir "Desbloquear Duración del Ciclo" para personalizar el ciclo diario si el ciclo diario preestablecido no cumple con sus necesidades.
+<img src="./assets/306.webp" alt="306" width="45%" />
 
-4. Seleccione períodos de tiempo de alarma para establecer alarmas
-5. Establezca horas para los períodos de alarma seleccionados, agregue observaciones si es necesario
+### 4.2 Solución de problemas de conexión
 
-**Nota:** No se puede establecer repetidamente la misma hora de alarma.
+Si la conexión Wi-Fi falla, verifique los siguientes aspectos:
 
-6. Después de configurar todas las alarmas, aparecerá una ventana emergente. Haga clic en "Aceptar" en la ventana emergente. El dispensador girará automáticamente la bandeja de vuelta a la posición inicial
-7. Aparecerá otra ventana emergente, indicando que su bandeja está lista. Haga clic en "Aceptar" en la ventana emergente
+1. ¿El SSID y la contraseña de Wi-Fi son correctos?
+2. ¿Su Wi-Fi es de 5GHz? Por favor, configúrelo en 2.4GHz.
+3. Restablezca el dispositivo: mantenga presionado el botón "+" del dispositivo para volver a ingresar al modo AP y vuelva a conectar el Wi-Fi.
 
-### 5.2 Vista General del Tablero
+**Nota importante:** Una vez que el dispensador de pastillas se conecte al dispositivo móvil, la hora que se muestra en el dispensador se sincronizará con la hora del dispositivo móvil. Si el dispositivo móvil se mueve a una zona horaria diferente, la hora del dispensador de pastillas no cambiará a menos que se vuelva a emparejar.
 
-#### Próxima Dosis
+---
 
-<img src="./assets/22@4x.webp" alt="22@4x" width="15%" /> Muestra la hora de la próxima dosis, número de dosis, dosis totales, observaciones para la próxima dosis, y la opción de tomar medicina por adelantado
+## 5. Guía de operación de la APP
 
-#### Ciclo Diario
+En la página principal, haga clic en el dispositivo "TH017 WIFI Pill Dispenser" para acceder a la página de configuración del dispositivo.
+
+<img src="./assets/309.webp" alt="309" width="35%"  />
+
+### 5.1 Configuración del horario de medicación
+
+<img src="./assets/307.webp" alt="307" width="100%" />
+
+Al operar el dispensador de pastillas a través de la APP por primera vez, debe configurar el horario de medicación:
+
+1. Ingrese al Panel de control
+2. Haga clic en "Setup"
+3. Haga clic en "Daily Doses" para seleccionar el número de dosis por día
+4. Haga clic en "Save" para guardar la selección de dosis
+
+**Nota:** Puede activar "Unlock cycle length" para personalizar el ciclo diario si el ciclo diario predeterminado no satisface sus necesidades.
+
+5. Haga clic en Alarm 1, 2, 3, etc. en secuencia para configurar la alarma
+6. Configure la hora para el período de alarma seleccionado, agregue notas si es necesario, haga clic en "Save" para completar el guardado de una alarma
+
+**Nota:** No se puede configurar la misma hora de alarma repetidamente.
+
+7. Después de configurar todas las alarmas, aparecerá una ventana emergente. Haga clic en "OK" en la ventana emergente.
+
+### 5.2 Descripción general del panel de control
+
+<img src="./assets/308.webp" alt="308" width="35%" />
+
+**Próxima dosis**
+
+<img src="./assets/22@4x.webp" alt="22@4x" width="15%" /> Muestra la hora de la próxima dosis, número de dosis, número total de dosis, notas para la próxima dosis y la opción de tomar la medicación con anticipación
+
+**Ciclo diario**
 
 <img src="./assets/23@4x.webp" alt="23@4x" width="15%" /> Muestra el ciclo diario actualmente seleccionado
 
-#### Compartimentos Activos
+**Casillas activas**
 
-<img src="./assets/24@4x.webp" alt="24@4x" width="15%" /> Muestra el número de cajas de medicamentos en uso (por ejemplo, 21 compartimentos activos)
+<img src="./assets/24@4x.webp" alt="24@4x" width="15%" /> Muestra el número de cajas de medicación en uso (ejemplo: 21 casillas activas)
 
-#### Finaliza
+**Finaliza**
 
-<img src="./assets/25@4x.webp" alt="25@4x" width="15%" /> Muestra la fecha en que el dispensador de pastillas necesita ser rellenado
+<img src="./assets/25@4x.webp" alt="25@4x" width="15%" /> Muestra la fecha en que se debe rellenar el dispensador de pastillas
 
-#### Dosis Restantes
+**Dosis restantes**
 
-<img src="./assets/26@4x.webp" alt="26@4x" width="15%" /> Muestra cuántas dosis quedan por tomar (por ejemplo, 21 dosis restantes)
+<img src="./assets/26@4x.webp" alt="26@4x" width="15%" /> Muestra cuántas dosis quedan por tomar (ejemplo: 21 dosis restantes)
 
-#### Icono de Enchufe
+**Ícono de enchufe**
 
-<img src="./assets/28.svg" alt="28" width="8%" /> Indica que el dispensador de pastillas está conectado al cable de alimentación
+<img src="./assets/28.svg" alt="28" width="5%" /> Indica que el dispensador de pastillas está conectado a un cable de alimentación
 
-**Nota:** Si el dispensador de pastillas se desconecta, el icono del enchufe desaparecerá del tablero.
+**Nota:** Si el dispensador de pastillas se desenchufa, el icono del enchufe desaparecerá del panel de control.
 
-### 5.3 Recordatorio de Medicamentos
+### 5.3 Recordatorios de medicación
 
-Cuando es hora de tomar medicamentos:
+**Cuando sea hora de tomar la medicación:**
 
-1. La ventana de la próxima dosis se volverá roja
-2. Sonará la alarma (si el dispensador no está silenciado)
-3. Haga clic en "Silenciar esta alarma" para apagar la alarma
-4. Después de tomar los medicamentos, la ventana de la próxima dosis volverá a azul y mostrará la próxima dosis programada
-5. El sensor incorporado en el dispensador de pastillas puede detectar cuando se sacan medicamentos de la caja de medicamentos
+1. La ventana de la próxima dosis se pondrá roja
 
-#### Tomar Medicamentos por Adelantado
+2. Sonará la alarma (si el dispensador no está en silencio)
 
-Para tomar medicamentos antes de la hora establecida:
-1. Haga clic en "Tomar por adelantado"
-2. Aparecerá una ventana emergente confirmando su elección, haga clic en "Aceptar"
-3. Al igual que en la hora programada, la ventana de la próxima dosis se volverá roja y sonará la alarma
-4. Entonces puede tomar la medicina normalmente
+3. Haga clic en "Silence Alarm" y confirme para apagar el sonido de la alarma
 
-**Nota:** Si intenta tomar medicamentos un día antes, el botón "Tomar por adelantado" no funcionará.
+4. Después de tomar la medicación, la ventana de la próxima dosis volverá a azul y mostrará la próxima dosis en el horario
 
-<img src="./assets/29@4x.webp" alt="29@4x" width="25%" />
+5. El dispensador de pastillas tiene un sensor integrado que puede detectar cuándo se sacan las pastillas de la caja de medicación
 
-### 5.4 Vista General de Actividades
+   <img src="./assets/29@4x.webp" alt="29@4x" width="50%" />
 
-La interfaz de actividades muestra registros de cuándo los usuarios tomaron sus medicamentos:
+**Tomar medicación con anticipación**
 
-- **Símbolo Verde:** Tomó medicina a tiempo
-- **Símbolo Amarillo:** Tomó medicina tarde
-- **Símbolo Rojo:** Se perdió la medicina
+Para tomar la medicación antes de la hora programada:
+1. Haga clic en "Take in advance"
+2. Aparecerá una ventana emergente para confirmar su selección, haga clic en "OK"
+3. Al igual que en la hora programada, la ventana de la próxima dosis se pondrá roja y sonará la alarma
+4. Luego puede tomar la medicación normalmente
 
-Puede hacer clic en el icono de observación junto al tiempo para ver observaciones para esa dosis específica.
+**Nota:** Si intenta tomar la medicación un día antes, el botón "Take in advance" no funcionará.
 
-#### Determinación del Tiempo de Medicamentos
+<img src="./assets/30@4x.webp" alt="30@4x" width="50%" />
 
-- **A Tiempo:** Tomó medicina durante la duración de alarma establecida
-- **Tarde:** Tomó medicina después de la duración de alarma pero antes de la próxima alarma
-- **Perdido:** Nunca tomó medicina y ya ha sonado la próxima alarma
+### 5.4 Descripción general de la actividad
 
-La duración de alarma está establecida en 30 minutos por defecto, pero se puede ajustar (ver sección "Vista General de Configuración").
+| La descripción general de la actividad muestra registros de cuándo los usuarios tomaron la medicación | Determinación del tiempo de medicación |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./assets/102.webp" alt="102" width="14%" />**Símbolo verde:** Tomó la medicación a tiempo | **A tiempo:** Tomar la medicación dentro de la duración de alarma inicial establecida, o tomar la medicación dentro de la duración de alarma de tiempo de espera después del final de la alarma inicial, se registra como tomar la medicación a tiempo |
+| <img src="./assets/101.webp" alt="101" width="12%" />**Símbolo amarillo:** Tomó la medicación con retraso | **Con retraso:** Tomar la medicación después del final de la alarma inicial y excediendo la duración de alarma de tiempo de espera, pero completar la toma de medicación antes de la próxima alarma, se registra como toma de medicación con retraso |
+| <img src="./assets/103.webp" alt="103" width="12%" />**Símbolo rojo:** Se olvidó de tomar la medicación | **Olvidada:** Nunca tomar la medicación y que la próxima alarma haya sonado, se registra como medicación olvidada |
+
+La duración de la alarma está establecida en 30 minutos de forma predeterminada, pero se puede ajustar (consulte la sección "Descripción general de las configuraciones").
 
 **Nota:** Los registros comenzarán a eliminarse después de 14 días.
 
 <img src="./assets/210@4x.webp" alt="210@4x" width="25%" />
 
-### 5.5 Vista General de Alarmas
+### 5.5 Descripción general de las alarmas
 
-La interfaz de alarmas le permite editar alarmas establecidas o configurar un nuevo horario de medicamentos.
+La interfaz de alarma le permite editar alarmas existentes o configurar nuevos horarios de medicación.
 
-**Nota:** Si se establece un nuevo horario de medicamentos, el dispensador de pastillas girará automáticamente y se reiniciará a la posición inicial.
+**Nota:** Si configura un nuevo horario de medicación, el dispensador de pastillas girará automáticamente y se restablecerá a la posición de inicio.
 
-**Editar Alarmas:**
+**Editar alarma:**
+
 1. Haga clic en uno de los períodos de tiempo de alarma
-2. Ajuste la hora o edite las observaciones para esa alarma
-3. Haga clic en "Guardar" para confirmar los cambios
+2. Ajuste la hora o edite las notas de esa alarma
+3. Haga clic en "Save" para confirmar los cambios
 
 <img src="./assets/211@4x.webp" alt="211@4x" width="25%" />
 
-### 5.6 Vista General de Configuración
+### 5.6 Descripción general de las configuraciones
 
 La interfaz de configuración le permite cambiar las siguientes opciones:
 
-- **Formato de Fecha:** Cambiar el formato de visualización de fecha
-
-- **Hora de 24 Horas:** Activar para mostrar la hora en formato de 24 horas
-
-- **Volumen:** Ajustar entre alto, medio, bajo y silenciar
-
-- **Tono de Alarma:** Elegir entre 2 tonos de alarma
-
-- **Duración de Alarma:** Ajustar la duración de alarma, rango seleccionable de 5 minutos a 2 horas
-
-- **Notificaciones Push:** Activar notificaciones para recibir los siguientes recordatorios:
-  - Recordatorio de relleno
-  - Recordatorio de preparación de medicamentos
-  - Recordatorio de medicamentos tomados
-  - Recordatorio de medicamentos perdidos
-  
-  Estas notificaciones se recibirán incluso cuando la APP no esté abierta. Puede activar todas o parte de las notificaciones.
-
-- **Restablecer Alarmas:** Restablecer todas las alarmas
-
-- **Restablecer Todo:** Restablecer todo y comenzar de nuevo
+- **Zona horaria:** Cambiar la zona horaria
+- **Reloj de 24 horas:** Activar para mostrar la hora en formato de 24 horas
+- **Recordatorio de reposición:** Recordatorio de reposición al final del ciclo, se puede ajustar el umbral de dosis restantes que activa el recordatorio de reposición, rango de ajuste: 1~9 Dosis
+- **Volumen:** Ajustar entre alto, medio, bajo y silencio
+- **Tono de alarma:** Elegir entre tres tonos de alarma A, B y C
+- **Duración de alarma inicial:** Ajustar la duración de alarma inicial, rango de selección de 5 minutos a 2 horas. (Si no se toma la medicación después de que suene la alarma inicial, se activará la alarma de tiempo de espera)
+- **Duración de alarma de tiempo de espera:** Ajustar la duración de alarma de tiempo de espera, rango de selección de 4 minutos a 1 hora. (Esto detendrá la alarma, pero la dosis se mantendrá hasta la próxima alarma. Tómela lo antes posible, de lo contrario se registrará como incumplimiento de las órdenes médicas)
+- **Restablecer alarma:** Restablecer todas las alarmas
+- **Restablecer todo:** Restablecer todo y comenzar de nuevo
 
 <img src="./assets/212@4x.webp" alt="212@4x" width="25%" />
 
-### 5.7 Vista General de Opciones
+### 5.7 Descripción general de las opciones
 
-Haga clic en el icono de opciones <img src="./assets/3.svg" alt="3" width="3%" /> en la esquina superior derecha de la pantalla para ingresar a la interfaz de opciones.
+Haga clic en el icono de opciones <img src="./assets/3.webp" alt="3" width="3%" /> en la esquina superior derecha de la pantalla para acceder a la interfaz de opciones.
 
 En esta interfaz puede:
 - Ver información del dispositivo
 - Ver red del dispositivo
-- Cambiar el nombre del dispensador de pastillas
+- Cambiar el nombre del dispensador de pastillas <img src="./assets/3.webp" alt="3" width="3%" />
 - Compartir información del dispensador de pastillas con otros usuarios de la APP
 - Eliminar completamente el dispositivo de la APP
 
-#### Actualizaciones del Dispositivo
+#### Actualizaciones del dispositivo
 
-La aplicación iDispenser le notificará cuando el dispensador de pastillas necesite actualizarse:
-1. Cuando aparezca una ventana emergente, haga clic en "Actualizar Ahora" para ingresar a la página de actualización del dispositivo
-2. Haga clic en "Actualizar" para comenzar la actualización
-
----
-
-## 6. Gestión del Dispositivo
-
-### 6.1 Configuración de Notificaciones de la APP
-
-En la página principal, seleccione: Yo → Configuración → Notificación de APP
-
-<img src="./assets/11@4x.webp" alt="11" width="85%" />
-
-### 6.2 Eliminar Dispositivo
-
-1. En la página principal, mantenga presionado el icono "Dispositivo" durante 2 segundos para ingresar a la página "Dispositivo Seleccionado"
-2. Seleccione uno o más dispositivos para eliminar
-3. Haga clic en el icono "Eliminar dispositivo"
-4. Haga clic en "Hecho" para regresar a la página principal
-
-<img src="./assets/10@4x.webp" alt="10" width="60%"/>
+La APP iDispenser le notificará cuando el dispensador de pastillas necesite una actualización:
+1. Cuando aparezca una ventana emergente, haga clic en "Update Now" para acceder a la página de actualización del dispositivo
+2. Haga clic en "Update" para comenzar la actualización
 
 ---
 
-## 7. Operación del Dispensador de Pastillas
+## 6. Administración del dispositivo
 
-### Pasos Básicos de Operación
+### 6.1 Configuraciones de notificaciones de la APP
 
-1. **Seleccionar Anillo de Dosis Diaria:** Seleccione el anillo de dosis diaria que satisfaga sus necesidades (por favor consulte la sección "Entendiendo los Anillos de Dosis Diaria" en el manual)
+En la página principal seleccione: Me → Settings → APP notification
 
-2. **Colocar Anillo de Dosis y Medicamentos:**
-   - Coloque el anillo de dosis diaria en el centro de la caja de medicamentos interna
-   - Coloque los medicamentos en la caja de medicamentos correspondiente al tiempo de dosificación (1ª, 2ª, 3ª, etc.)
-   - Coloque según los números en el anillo (1, 2, 3, etc.)
-   - No coloque ningún medicamento en las secciones blancas
-   - Cuando vea el blanco acercándose al puerto de dispensación, es hora de rellenar
+<img src="./assets/303.webp" alt="303" width="75%" />
 
-3. **Instalar Baterías:** Por favor consulte la sección "Instalación de Baterías" en el manual
+### 6.2 Eliminar dispositivo
 
-4. **Desbloquear Tapa:**
-   - Use la llave para desbloquear la tapa (por favor consulte la sección "Bloqueo y Desbloqueo de la Tapa")
-   - Coloque la copa de medicamentos dentro del cuerpo principal
+1. En la página principal, haga clic en el botón "..." en la esquina superior derecha, seleccione "Device Management" e ingrese a la página "Device Selected";
 
-5. **Conectar Cable de Alimentación**
+2. Seleccione uno o más dispositivos que desee eliminar;
 
-6. **Conectar a Red Wi-Fi:** Use la aplicación iDispenser para conectar (por favor consulte la sección "Configuración Wi-Fi")
+3. Haga clic en el icono "Remove device", aparecerá un mensaje "Delete device or dismiss group？", haga clic en "Confirm" para confirmar la eliminación;
 
-7. **Establecer Hora:** Por favor consulte la sección "Establecer Hora" en el manual
+4. Haga clic en "Done" para regresar a la página principal.
 
-8. **Ajustar Configuraciones:**
-   - Ajuste el volumen, formato de fecha y formato de hora desde la aplicación iDispenser (por favor consulte la sección "Vista General de Configuración")
-   - O ajuste el volumen de alarma, tipo de alarma en el dispensador, y seleccione formato de 12 o 24 horas (por favor consulte las secciones relevantes en el manual)
-
-9. **Establecer Horas de Medicamentos:**
-   - Establezca el horario de medicamentos desde la aplicación iDispenser (por favor consulte la sección "Configuración del Horario de Medicamentos")
-   - O establezca horas de alarma de medicamentos en el dispensador (por favor consulte la sección "Establecer Alarmas" en el manual)
-
-10. **Bloquear Tapa:** Use la llave provista para cerrar y bloquear la tapa
-
-11. **Dispensación Automática:** En la hora designada de medicamentos, sonará la alarma y la copa de medicamentos se empujará automáticamente hacia afuera
-
-12. **Detener Alarma:** Al retirar la copa de medicamentos, la alarma debería detenerse automáticamente
-
-13. **Devolver Copa de Medicamentos:** Después de tomar la medicina, coloque la copa de medicamentos de vuelta en la salida hasta que escuche un sonido de "clic", indicando que la copa de medicamentos está en la posición correcta
-
-14. **Colocar Dispositivo:** Coloque el dispensador de pastillas en una superficie plana
+   <img src="./assets/304.webp" alt="304" width="100%" />
 
 ---
 
-## 8. Cuidado y Mantenimiento
+## 7. Operación del dispensador de pastillas
 
-- **Limpiar Exterior:** Limpie el exterior con un paño suave y húmedo. No use limpiadores abrasivos
+### Pasos básicos de operación
 
-- **Limpiar Caja de Medicamentos Interna:**
-  - Si es necesario, retire la caja de medicamentos interna
-  - Enjuague/limpie suavemente cada compartimento de medicamentos
-  - Deje que el contenedor se seque completamente antes de reposicionarlo o rellenarlo
+1. **Seleccionar el anillo de dosis diaria:** Seleccione el anillo de dosis diaria que cumpla con sus necesidades (consulte la sección "Understanding Daily Dose Rings" en el manual)
 
-- **Aviso de Impermeabilidad:** No sumerja el dispensador de pastillas externo en agua o cualquier otro líquido
+2. **Colocar el anillo de dosis y la medicación:**
+   - Coloque el anillo de dosis diaria en el centro de la caja de medicación interna
+   - Coloque la medicación en la caja de medicación, correspondiente a la hora de toma (1ª, 2ª, 3ª, etc.)
+   - Colóquela según los números (1, 2, 3, etc.) en el anillo
+   - No coloque ninguna medicación en la parte blanca
+   - Cuando vea que la parte blanca se aproxima a la salida de medicación, es hora de rellenar
 
-- **Mantener Limpieza:** Asegúrese de que la caja de medicamentos interna esté limpia y seca antes de rellenar
+3. **Instalar batería:** Consulte la sección "Install Battery" en el manual
+
+4. **Desbloquear la tapa:**
+   - Use la llave para desbloquear la tapa (consulte la sección "Locking and Unlocking the Cover")
+   - Coloque la taza de medicación en el interior del cuerpo
+
+5. **Conectar el cable de alimentación**
+
+6. **Conectarse a una red Wi-Fi:** Use la APP iDispenser para conectarse (consulte la sección "Wi-Fi Setup")
+
+7. **Configurar la hora:** Consulte la sección "Set Time" en el manual
+
+8. **Ajustar configuraciones:**
+   - Ajuste el volumen, el formato de fecha y el formato de hora desde la APP iDispenser (consulte la sección "Settings Overview")
+   - O ajuste el volumen de la alarma, el tipo de alarma y seleccione el formato de 12 o 24 horas en el dispensador (consulte las secciones correspondientes en el manual)
+
+9. **Configurar la hora de medicación:**
+   - Configure el horario de medicación desde la APP iDispenser (consulte la sección "Setting Medication Schedule")
+   - O configure la hora de alarma de medicación en el dispensador (consulte la sección "Setting Alarms" en el manual)
+
+10. **Bloquear la tapa:** Use la llave proporcionada para cerrar y bloquear la tapa
+
+11. **Dispensación automática de medicación:** En la hora de medicación especificada, sonará la alarma y la taza de medicación saldrá automáticamente
+
+12. **Detener la alarma:** Al sacar la taza de medicación, la alarma debe detenerse automáticamente
+
+13. **Devolver la taza de medicación:** Después de tomar la medicación, devuelva la taza de medicación a la salida hasta que escuche un sonido de "clic", lo que indica que la taza de medicación está en la posición correcta
+
+14. **Colocar el dispositivo:** Coloque el dispensador de pastillas en una superficie plana
 
 ---
 
-## Notas
+## 8. Cuidado y mantenimiento
 
-- Wi-Fi, WPA y WPA2 son marcas comerciales de Wi-Fi Alliance en Estados Unidos y/o otros países
-- Bluetooth es una marca comercial de Bluetooth SIG, Inc. EE.UU
-- Android y Google Play son marcas comerciales de Google LLC
-- Apple, iOS y App Store son marcas comerciales de Apple Inc. en Estados Unidos y otros países
-- Todos los demás nombres de productos, nombres de marcas, nombres de empresas y logotipos son marcas comerciales de sus respectivos propietarios, utilizadas solo con fines de identificación y no implican ningún patrocinio, respaldo o aprobación
+- **Limpiar el exterior:** Limpie el exterior con un paño húmedo suave. No use detergentes agresivos
+
+- **Limpiar la caja de medicación interna:**
+  - Si es necesario, retire la caja de medicación interna
+  - Enjuague/limpie suavemente cada compartimento de medicación
+  - Deje que el recipiente se seque completamente antes de volver a posicionarlo o rellenarlo
+
+- **Precauciones contra el agua:** No sumerja el dispensador de pastillas externo en agua ni en cualquier otro líquido
+
+- **Mantener limpio:** Asegúrese de que la caja de medicación interna esté limpia y seca antes de rellenarla
 
 ---
 
-**Si tiene alguna pregunta, por favor contacte al servicio al cliente de Retekess. La información de contacto se puede encontrar en la caja del empaque del producto o en el manual impreso**
+## Nota
+
+- Wi-Fi, WPA y WPA2 son marcas registradas de Wi-Fi Alliance en los Estados Unidos y/o en otros países
+- Bluetooth es una marca registrada de Bluetooth SIG, Inc. USA
+- Android y Google Play son marcas registradas de Google LLC
+- Apple, iOS y App Store son marcas registradas de Apple Inc. en los Estados Unidos y en otros países
+- Todos los demás productos, nombres de marcas, nombres de empresas y logotipos son marcas registradas de sus respectivos propietarios y se usan solo para identificar sus respectivos productos, y no implican ningún patrocinio, respaldo o aprobación
+
+---
+
+**Para cualquier pregunta, comuníquese con el servicio al cliente de Retekess. La información de contacto está disponible en el empaque del producto o en el manual impreso**

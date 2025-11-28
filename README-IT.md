@@ -1,12 +1,12 @@
-### Manuale Utente dell'App del Distributore Automatico di Pillole Retekess TH017
+### Retekess TH017 Manuale utente dell'applicazione del distributore automatico di pillole
 
 🇺🇸 [English](https://github.com/dennischancs/retekess-dispenser/blob/main/README.md) | 🇫🇷 [Français](https://github.com/dennischancs/retekess-dispenser/blob/main/README-FR.md) | 🇩🇪 [Deutsch](https://github.com/dennischancs/retekess-dispenser/blob/main/README-DE.md) | 🇮🇹 [Italiano](https://github.com/dennischancs/retekess-dispenser/blob/main/README-IT.md) | 🇪🇸 [Español](https://github.com/dennischancs/retekess-dispenser/blob/main/README-ES.md) | 🇷🇺 [Русский](https://github.com/dennischancs/retekess-dispenser/blob/main/README-RU.md) | 🇵🇹 [Português](https://github.com/dennischancs/retekess-dispenser/blob/main/README-PT.md) | 🇯🇵 [日本語](https://github.com/dennischancs/retekess-dispenser/blob/main/README-JP.md) | 🇨🇳 [简体中文](https://github.com/dennischancs/retekess-dispenser/blob/main/README-CN.md)
 
 ---
 
-## 1. Download e Installazione dell'App
+## 1. Download e installazione dell'app
 
-Scarica e installa l'app iDispenser sul tuo smartphone o su quello del tuo assistente tramite i seguenti metodi:
+Scarica e installa l'app iDispenser sul tuo smartphone o su quello del tuo caregiver attraverso i seguenti metodi:
 
 <img src="./assets/app_qr_code@4x.webp" alt="app_qr_code" width="67%" />
 
@@ -15,328 +15,309 @@ Scarica e installa l'app iDispenser sul tuo smartphone o su quello del tuo assis
 
 ---
 
-## 2. Registrazione dell'Account
+## 2. Registrazione e accesso all'account
 
-Se stai utilizzando iDispenser per la prima volta, crea un account:
+Se usi iDispenser per la prima volta, crea un account:
 
-1. Apri l'app iDispenser e clicca su "Registrati"
-2. Accetta i termini e le condizioni dell'Informativa sulla Privacy
-3. Inserisci un indirizzo email valido o un numero di telefono per la verifica
-4. Ottieni il codice di verifica e inseriscilo
-5. Crea una password e accedi
+1. Apri l'app iDispenser e fai clic su "Registrati"
+
+   <img src="./assets/301.webp" alt="301" width="35%" />
+
+2. Seleziona il tuo paese o regione
+
+3. Spunta per accettare i termini e le condizioni della politica sulla privacy
+
+4. Inserisci un indirizzo email valido o un numero di telefono mobile per la verifica
+
+5. Ottieni e inserisci il codice di verifica
+
+6. Crea una password e accedi
+
+7. Dopo l'accesso, segui le istruzioni dell'app per accettare e concedere all'app i permessi di posizione e Bluetooth del dispositivo
+
+   <img src="./assets/302.webp" alt="302" width="35%" />
 
 ---
 
-## 3. Configurazione della Connessione Wi-Fi
+## 3. Configurazione della connessione Wi-Fi
 
-### Dispositivo in Modalità AP
+**Il dispositivo entra in modalità AP**
 
 <img src="./assets/1.svg" alt="1"  width="40%"  />
 
-1. Nella modalità orologio principale del dispositivo, premi a lungo il pulsante "+" del dispositivo per 3 secondi per entrare in modalità Wi-Fi AP;
-2. A questo punto, l'altoparlante emetterà la voce "AP Mode" e la luce LED inizierà a lampeggiare;
-3. Se non vi è alcuna operazione entro 3 minuti, il dispositivo uscirà automaticamente dalla modalità AP e tornerà alla modalità orologio principale;
-4. Premi a lungo il pulsante "+" del dispositivo per 3 secondi per uscire dalla modalità AP.
+1. Nel modo orologio principale del dispositivo, tieni premuto il pulsante "+" del dispositivo per 3 secondi per entrare nella modalità AP Wi-Fi;
+2. In questo momento, lo speaker riprodurrà la voce "AP Mode" e il LED inizierà a lampeggiare;
+3. Se non ci sono operazioni entro 3 minuti, il dispositivo uscirà automaticamente dalla modalità AP e tornerà al modo orologio principale;
+4. Tieni premuto nuovamente il pulsante "+" del dispositivo per 3 secondi per uscire dalla modalità AP.
 
-**Nota:** Bluetooth e servizi di localizzazione devono essere abilitati per accoppiare il distributore di pillole con il dispositivo mobile.
+**Nota:** È necessario attivare Bluetooth e i servizi di posizione per abbinare il distributore di pillole con il dispositivo mobile.
 
 ---
 
-## 4. Metodi di Accoppiamento del Dispositivo
+## 4. Abbinamento del dispositivo
 
-### Metodo 1: Scansione Automatica
+### 4.1 Completa l'abbinamento tramite Auto Scan
 
-1. Apri l'app iDispenser e clicca su "Aggiungi Dispositivo" nella homepage dell'APP
-2. Attendi che la scansione automatica trovi il distributore di pillole nella sezione "Ricerca Dispositivi"
-3. Quando appare il distributore di pillole da connettere, clicca su "Vai ad Aggiungere"
-4. Inserisci il nome della rete Wi-Fi e la password, poi clicca su "Avanti"
-5. Attendi che il dispositivo mobile e il distributore di pillole si connettano
+1. Apri l'app iDispenser, fai clic su "Add Device" nella pagina principale dell'app
+2. Attendi che la scansione automatica trovi il distributore di pillole nella sezione "Discovering Devices", quando appare il distributore di pillole a cui desideri connetterti, fai clic su "Add"
+3. Inserisci il nome della rete Wi-Fi e la password, quindi fai clic su "Next"
+4. Attendi che il dispositivo mobile e il distributore di pillole si connettano
 
-### Metodo 2: Aggiunta Manuale
+<img src="./assets/305.webp" alt="305" width="100%" />
 
-1. Apri l'app iDispenser e clicca sul pulsante "⊕" nella homepage dell'APP per accedere alla pagina "Aggiungi Dispositivo"
-2. Seleziona Altri → Altri(Wi-Fi)
-3. Clicca sul distributore di pillole da connettere
-4. Assicurati che il distributore di pillole sia alimentato e in modalità AP, poi clicca su "Avanti"
+5. Dopo una connessione Wi-Fi riuscita, l'app mostra "added successfully", fai clic su "Done" per tornare. In questo momento, lo schermo del dispositivo mostrerà il simbolo "<img src="./assets/2.svg" alt="2"  width="3%" />" .
 
-<img src="./assets/5@4x.webp" alt="5" width="60%" />
+<img src="./assets/306.webp" alt="306" width="45%" />
 
-5. Inserisci la password Wi-Fi (uguale alla password Wi-Fi del telefono), clicca su "Avanti"
-
-<img src="./assets/6@4x.webp" alt="6"  width="25%" />
-
-6. Nella pagina della modalità AP, clicca su "Avanti"
-
-<img src="./assets/7@4x.webp" alt="7"  width="85%"  />
-
-7. Clicca su "Vai a Connettere" e seleziona l'SSID Wi-Fi corrispondente
-
-<img src="./assets/8@4x.webp" alt="8"  width="85%" />
-
-8. Vai alle impostazioni Wi-Fi del telefono e seleziona "TH017-XXXX" dall'elenco per connettere il distributore
-9. Ritorna all'APP e attendi che il dispositivo mobile e il distributore di pillole si connettano
-10. Dopo la connessione riuscita, clicca su "Fatto"
-11. Dopo la connessione AP riuscita, clicca su "Indietro" per tornare alla pagina "Aggiungi Dispositivo"
-
-### Indicatore di Connessione Riuscita
-
-Dopo una connessione Wi-Fi riuscita, il simbolo "<img src="./assets/2.svg" alt="2"  width="3%" />" verrà visualizzato sul display del dispositivo.
-
-<img src="./assets/9@4x.webp" alt="9" width="85%" />
-
-### Risoluzione dei Problemi di Connessione
+### 4.2 Risoluzione dei problemi di connessione
 
 Se la connessione Wi-Fi fallisce, controlla i seguenti aspetti:
 
-1. L'SSID Wi-Fi e la password sono corretti?
-2. Il tuo Wi-Fi è a 5GHz? Impostalo su 2.4GHz.
-3. Reimposta il dispositivo: Premi a lungo il pulsante "+" del dispositivo per rientrare in modalità AP e riconnettere il Wi-Fi.
+1. L'SSID e la password Wi-Fi sono corretti?
+2. Il tuo Wi-Fi è a 5GHz? Impostalo a 2.4GHz.
+3. Reimposta il dispositivo: tieni premuto il pulsante "+" del dispositivo per rientrare nella modalità AP e riconnetti il Wi-Fi.
 
-**Nota Importante:** Una volta che il distributore di pillole è connesso al dispositivo mobile, l'ora visualizzata sul distributore sarà sincronizzata con l'ora del dispositivo mobile. Se il dispositivo mobile si sposta in un fuso orario diverso, l'ora del distributore di pillole non cambierà a meno che non venga riaccoppiato.
+**Nota importante:** Una volta che il distributore di pillole è connesso al dispositivo mobile, l'ora visualizzata sul distributore verrà sincronizzata con l'ora del dispositivo mobile. Se il dispositivo mobile si sposta in un fuso orario diverso, l'ora del distributore di pillole non cambierà a meno che non venga riabbinnato.
 
 ---
 
-## 5. Guida all'Utilizzo dell'APP
+## 5. Guida all'uso dell'app
 
-<img src="./assets/21@4x.webp" alt="21@4x" width="25%" />
+Nella pagina principale, fai clic sul dispositivo "TH017 WIFI Pill Dispenser" per accedere alla pagina di configurazione del dispositivo.
 
-### 5.1 Impostazione del Calendario dei Farmaci
+<img src="./assets/309.webp" alt="309" width="35%"  />
 
-Quando utilizzi il distributore di pillole tramite l'APP per la prima volta, devi impostare un calendario dei farmaci:
+### 5.1 Configurazione del programma di medicazione
 
-1. Nella Dashboard, clicca su "Imposta"
-2. Clicca su "Dosi al giorno" per selezionare il numero di dosi al giorno
-3. Clicca su "Salva" per salvare la selezione della dose
+<img src="./assets/307.webp" alt="307" width="100%" />
 
-**Nota:** Puoi aprire "Sblocca Durata Ciclo" per personalizzare il ciclo giornaliero se il ciclo preimpostato non soddisfa le tue esigenze.
+Quando usi il distributore di pillole tramite l'app per la prima volta, devi configurare il programma di medicazione:
 
-4. Seleziona i periodi di allarme per impostare gli allarmi
-5. Imposta gli orari per i periodi di allarme selezionati, aggiungi note se necessario
+1. Accedi al cruscotto
+2. Fai clic su "Setup"
+3. Fai clic su "Daily Doses" per selezionare il numero di dosi al giorno
+4. Fai clic su "Save" per salvare la selezione delle dosi
 
-**Nota:** Non è possibile impostare ripetutamente lo stesso orario di allarme.
+**Nota:** Puoi attivare "Unlock cycle length" per personalizzare il ciclo giornaliero se il ciclo giornaliero predefinito non soddisfa le tue esigenze.
 
-6. Dopo aver impostato tutti gli allarmi, apparirà un popup. Clicca su "Okay" nel popup. Il distributore ruoterà automaticamente il vassoio nella posizione iniziale
-7. Apparirà un altro popup, indicando che il tuo vassoio è pronto. Clicca su "Okay" nel popup
+5. Fai clic su Alarm 1, 2, 3, ecc. in sequenza per impostare l'allarme
+6. Imposta l'ora per il periodo di allarme selezionato, aggiungi note se necessario, fai clic su "Save" per completare il salvataggio di un allarme
 
-### 5.2 Panoramica della Dashboard
+**Nota:** Non puoi impostare la stessa ora di allarme ripetutamente.
 
-#### Prossima Dose
+7. Dopo aver impostato tutti gli allarmi, apparirà una finestra popup. Fai clic su "OK" nella finestra popup.
 
-<img src="./assets/22@4x.webp" alt="22@4x" width="15%" /> Visualizza l'orario della prossima dose, il numero della dose, le dosi totali, le note per la prossima dose e l'opzione di assumere il farmaco in anticipo
+### 5.2 Panoramica del cruscotto
 
-#### Ciclo Giornaliero
+<img src="./assets/308.webp" alt="308" width="35%" />
 
-<img src="./assets/23@4x.webp" alt="23@4x" width="15%" /> Visualizza il ciclo giornaliero attualmente selezionato
+**Prossima dose**
 
-#### Slot Attivi
+<img src="./assets/22@4x.webp" alt="22@4x" width="15%" /> Mostra l'ora della prossima dose, il numero di dose, il numero totale di dosi, le note per la prossima dose e l'opzione di prendere la medicazione in anticipo
 
-<img src="./assets/24@4x.webp" alt="24@4x" width="15%" /> Visualizza il numero di scatole di medicinali in uso (ad esempio, 21 slot attivi)
+**Ciclo giornaliero**
 
-#### Termina
+<img src="./assets/23@4x.webp" alt="23@4x" width="15%" /> Mostra il ciclo giornaliero attualmente selezionato
 
-<img src="./assets/25@4x.webp" alt="25@4x" width="15%" /> Visualizza la data in cui il distributore di pillole deve essere ricaricato
+**Slot attivi**
 
-#### Dosi Rimanenti
+<img src="./assets/24@4x.webp" alt="24@4x" width="15%" /> Mostra il numero di scatole di medicazione in uso (esempio: 21 slot attivi)
 
-<img src="./assets/26@4x.webp" alt="26@4x" width="15%" /> Visualizza quante dosi rimangono da assumere (ad esempio, 21 dosi rimanenti)
+**Termina**
 
-#### Icona della Spina
+<img src="./assets/25@4x.webp" alt="25@4x" width="15%" /> Mostra la data in cui il distributore di pillole deve essere rifornito
 
-<img src="./assets/28.svg" alt="28" width="8%" /> Indica che il distributore di pillole è collegato al cavo di alimentazione
+**Dosi rimanenti**
 
-**Nota:** Se il distributore di pillole viene scollegato, l'icona della spina scomparirà dalla dashboard.
+<img src="./assets/26@4x.webp" alt="26@4x" width="15%" /> Mostra quante dosi rimangono da prendere (esempio: 21 dosi rimanenti)
 
-### 5.3 Promemoria dei Farmaci
+**Icona della spina**
 
-Quando è ora di assumere i farmaci:
+<img src="./assets/28.svg" alt="28" width="5%" /> Indica che il distributore di pillole è collegato a un cavo di alimentazione
+
+**Nota:** Se il distributore di pillole viene scollegato, l'icona della spina scompare dal cruscotto.
+
+### 5.3 Promemoria di medicazione
+
+**Quando è il momento di prendere la medicazione:**
 
 1. La finestra della prossima dose diventerà rossa
-2. Suonerà l'allarme (se il distributore non è silenziato)
-3. Clicca su "Silenzia questo allarme" per disattivare l'allarme
-4. Dopo aver assunto i farmaci, la finestra della prossima dose tornerà blu e visualizzerà la prossima dose programmata
-5. Il sensore integrato nel distributore di pillole può rilevare quando i farmaci vengono versati dalla scatola dei medicinali
 
-#### Assumere i Farmaci in Anticipo
+2. Suonerà l'allarme (se il distributore non è in modalità silenziosa)
 
-Per assumere i farmaci prima dell'orario stabilito:
-1. Clicca su "Assumi in anticipo"
-2. Apparirà un popup che conferma la tua scelta, clicca su "Okay"
-3. Come per l'orario programmato, la finestra della prossima dose diventerà rossa e suonerà l'allarme
-4. Potrai quindi assumere il farmaco normalmente
+3. Fai clic su "Silence Alarm" e conferma per spegnere il suono dell'allarme
 
-**Nota:** Se tenti di assumere i farmaci con un giorno di anticipo, il pulsante "Assumi in anticipo" non funzionerà.
+4. Dopo aver preso la medicazione, la finestra della prossima dose tornerà blu e mostrerà la prossima dose nel programma
 
-<img src="./assets/29@4x.webp" alt="29@4x" width="25%" />
+5. Il distributore di pillole è dotato di un sensore integrato che può rilevare quando le pillole vengono rimosse dalla scatola di medicazione
 
-### 5.4 Panoramica delle Attività
+   <img src="./assets/29@4x.webp" alt="29@4x" width="50%" />
 
-L'interfaccia delle attività mostra i registri di quando gli utenti hanno assunto i loro farmaci:
+**Prendere la medicazione in anticipo**
 
-- **Simbolo Verde:** Farmaco assunto puntualmente
-- **Simbolo Giallo:** Farmaco assunto in ritardo
-- **Simbolo Rosso:** Farmaco perso
+Per prendere la medicazione prima dell'ora programmata:
+1. Fai clic su "Take in advance"
+2. Apparirà una finestra popup per confermare la tua scelta, fai clic su "OK"
+3. Come nell'ora programmata, la finestra della prossima dose diventerà rossa e suonerà l'allarme
+4. Puoi quindi prendere la medicazione normalmente
 
-Puoi cliccare sull'icona delle note accanto all'orario per visualizzare le note per quella dose specifica.
+**Nota:** Se tenti di prendere la medicazione un giorno in anticipo, il pulsante "Take in advance" non funzionerà.
 
-#### Determinazione dell'Orario dei Farmaci
+<img src="./assets/30@4x.webp" alt="30@4x" width="50%" />
 
-- **Puntuale:** Farmaco assunto durante la durata dell'allarme impostata
-- **In Ritardo:** Farmaco assunto dopo la durata dell'allarme ma prima del prossimo allarme
-- **Perso:** Nessuna assunzione del farmaco e il prossimo allarme è già suonato
+### 5.4 Panoramica delle attività
 
-La durata dell'allarme è impostata a 30 minuti per default, ma può essere regolata (vedi sezione "Panoramica delle Impostazioni").
+| La panoramica delle attività mostra i record di quando gli utenti hanno preso la medicazione | Determinazione dell'ora di presa della medicazione |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./assets/102.webp" alt="102" width="14%" />**Simbolo verde:** Medicazione presa in tempo | **In tempo:** Prendere la medicazione entro la durata dell'allarme iniziale impostata, o prendere la medicazione entro la durata dell'allarme di timeout dopo la fine dell'allarme iniziale, viene registrato come medicazione presa in tempo |
+| <img src="./assets/101.webp" alt="101" width="12%" />**Simbolo giallo:** Medicazione presa con ritardo | **Ritardo:** Prendere la medicazione dopo la fine dell'allarme iniziale e superare la durata dell'allarme di timeout, ma completare la presa della medicazione prima del prossimo allarme, viene registrato come medicazione presa con ritardo |
+| <img src="./assets/103.webp" alt="103" width="12%" />**Simbolo rosso:** Medicazione persa | **Persa:** Non prendere mai la medicazione e che il prossimo allarme sia suonato, viene registrato come medicazione persa |
 
-**Nota:** I record inizieranno ad essere eliminati dopo 14 giorni.
+La durata dell'allarme è impostata su 30 minuti per impostazione predefinita, ma può essere regolata (consultare la sezione "Panoramica delle impostazioni").
+
+**Nota:** I record inizieranno a essere eliminati dopo 14 giorni.
 
 <img src="./assets/210@4x.webp" alt="210@4x" width="25%" />
 
-### 5.5 Panoramica degli Allarmi
+### 5.5 Panoramica degli allarmi
 
-L'interfaccia degli allarmi ti consente di modificare gli allarmi impostati o di configurare un nuovo calendario dei farmaci.
+L'interfaccia degli allarmi ti consente di modificare gli allarmi esistenti o di configurare nuovi programmi di medicazione.
 
-**Nota:** Se viene impostato un nuovo calendario dei farmaci, il distributore di pillole ruoterà automaticamente e si reimposterà nella posizione iniziale.
+**Nota:** Se configuri un nuovo programma di medicazione, il distributore di pillole ruoterà automaticamente e si reimposterà alla posizione iniziale.
 
-**Modifica degli Allarmi:**
-1. Clicca su uno dei periodi di allarme
-2. Regola l'orario o modifica le note per quell'allarme
-3. Clicca su "Salva" per confermare le modifiche
+**Modificare un allarme:**
+
+1. Fai clic su uno dei periodi di allarme
+2. Regola l'ora o modifica le note di quell'allarme
+3. Fai clic su "Save" per confermare le modifiche
 
 <img src="./assets/211@4x.webp" alt="211@4x" width="25%" />
 
-### 5.6 Panoramica delle Impostazioni
+### 5.6 Panoramica delle impostazioni
 
 L'interfaccia delle impostazioni ti consente di modificare le seguenti opzioni:
 
-- **Formato Data:** Cambia il formato di visualizzazione della data
-
-- **Ora 24 Ore:** Attiva per visualizzare l'ora in formato 24 ore
-
-- **Volume:** Regola tra alto, medio, basso e muto
-
-- **Suoneria:** Scegli tra 2 toni di allarme
-
-- **Durata Allarme:** Regola la durata dell'allarme, intervallo selezionabile da 5 minuti a 2 ore
-
-- **Notifiche Push:** Attiva le notifiche per ricevere i seguenti promemoria:
-  - Promemoria di ricarica
-  - Promemoria di preparazione dei farmaci
-  - Promemoria di farmaci assunti
-  - Promemoria di farmaci persi
-  
-  Queste notifiche saranno ricevute anche quando l'APP non è aperta. Puoi attivare tutte o parte delle notifiche.
-
-- **Reimposta Allarmi:** Reimposta tutti gli allarmi
-
-- **Reimposta Tutto:** Reimposta tutto e ricomincia da capo
+- **Fuso orario:** Cambiare il fuso orario
+- **Orologio a 24 ore:** Attivare per visualizzare l'ora in formato 24 ore
+- **Promemoria di rifornimento:** Promemoria di rifornimento alla fine del ciclo, può regolare la soglia di dose rimanente che attiva il promemoria di rifornimento, intervallo di regolazione: 1~9 Doses
+- **Volume:** Regolare tra alto, medio, basso e silenzioso
+- **Suono dell'allarme:** Scegliere tra tre suoni di allarme A, B e C
+- **Durata dell'allarme iniziale:** Regolare la durata dell'allarme iniziale, intervallo di selezione da 5 minuti a 2 ore. (Se non si prende la medicazione dopo che ha suonato l'allarme iniziale, si attiverà l'allarme di timeout)
+- **Durata dell'allarme di timeout:** Regolare la durata dell'allarme di timeout, intervallo di selezione da 4 minuti a 1 ora. (Questo fermerà l'allarme, ma la dose sarà mantenuta fino al prossimo allarme. Prendila il prima possibile, altrimenti verrà registrata come non conformità alle prescrizioni mediche)
+- **Reimposta allarme:** Reimposta tutti gli allarmi
+- **Reimposta tutto:** Reimposta tutto e ricomincia
 
 <img src="./assets/212@4x.webp" alt="212@4x" width="25%" />
 
-### 5.7 Panoramica delle Opzioni
+### 5.7 Panoramica delle opzioni
 
-Clicca sull'icona delle opzioni <img src="./assets/3.svg" alt="3" width="3%" /> nell'angolo in alto a destra dello schermo per accedere all'interfaccia delle opzioni.
+Fai clic sull'icona delle opzioni <img src="./assets/3.webp" alt="3" width="3%" /> nell'angolo superiore destro dello schermo per accedere all'interfaccia delle opzioni.
 
 In questa interfaccia puoi:
 - Visualizzare le informazioni del dispositivo
 - Visualizzare la rete del dispositivo
-- Cambiare il nome del distributore di pillole
-- Condividere le informazioni del distributore di pillole con altri utenti dell'APP
-- Rimuovere completamente il dispositivo dall'APP
+- Modificare il nome del distributore di pillole <img src="./assets/3.webp" alt="3" width="3%" />
+- Condividere le informazioni del distributore di pillole con altri utenti dell'app
+- Rimuovere completamente il dispositivo dall'app
 
-#### Aggiornamenti del Dispositivo
+#### Aggiornamenti del dispositivo
 
-L'app iDispenser ti notificherà quando il distributore di pillole avrà bisogno di essere aggiornato:
-1. Quando appare un popup, clicca su "Aggiorna Ora" per accedere alla pagina di aggiornamento del dispositivo
-2. Clicca su "Aggiorna" per avviare l'aggiornamento
-
----
-
-## 6. Gestione del Dispositivo
-
-### 6.1 Impostazioni Notifiche dell'APP
-
-Nella homepage, seleziona: Io → Impostazioni → Notifiche APP
-
-<img src="./assets/11@4x.webp" alt="11" width="85%" />
-
-### 6.2 Rimuovi Dispositivo
-
-1. Nella homepage, premi a lungo l'icona "Dispositivo" per 2 secondi per accedere alla pagina "Dispositivo Selezionato"
-2. Seleziona uno o più dispositivi da rimuovere
-3. Clicca sull'icona "Rimuovi dispositivo"
-4. Clicca su "Fatto" per tornare alla homepage
-
-<img src="./assets/10@4x.webp" alt="10" width="60%"/>
+L'app iDispenser ti notificherà quando il distributore di pillole avrà bisogno di un aggiornamento:
+1. Quando appare una finestra popup, fai clic su "Update Now" per accedere alla pagina di aggiornamento del dispositivo
+2. Fai clic su "Update" per iniziare l'aggiornamento
 
 ---
 
-## 7. Funzionamento del Distributore di Pillole
+## 6. Gestione del dispositivo
 
-### Passaggi Operativi di Base
+### 6.1 Impostazioni delle notifiche dell'app
 
-1. **Selezionare l'Anello delle Dosi Giornaliere:** Seleziona l'anello delle dosi giornaliere che soddisfa le tue esigenze (fare riferimento alla sezione "Comprendere gli Anelli delle Dosi Giornaliere" nel manuale)
+Nella pagina principale seleziona: Me → Settings → APP notification
 
-2. **Posizionare l'Anello delle Dosi e i Farmaci:**
-   - Posiziona l'anello delle dosi giornaliere al centro della scatola dei medicinali interna
-   - Metti i farmaci nella scatola dei medicinali corrispondente all'orario di somministrazione (1°, 2°, 3°, ecc.)
-   - Posiziona seguendo i numeri sull'anello (1, 2, 3, ecc.)
-   - Non mettere nessun farmaco nelle sezioni bianche
-   - Quando vedi il bianco avvicinarsi al portello di distribuzione, è ora di ricaricare
+<img src="./assets/303.webp" alt="303" width="75%" />
 
-3. **Installare le Batterie:** Fare riferimento alla sezione "Installazione delle Batterie" nel manuale
+### 6.2 Rimuovere il dispositivo
 
-4. **Sbloccare il Coperchio:**
-   - Usa la chiave per sbloccare il coperchio (fare riferimento alla sezione "Blocco e Sblocco del Coperchio")
-   - Posiziona il bicchiere per i medicinali all'interno del corpo principale
+1. Nella pagina principale, fai clic sul pulsante "..." nell'angolo superiore destro, seleziona "Device Management" e accedi alla pagina "Device Selected";
 
-5. **Collegare il Cavo di Alimentazione**
+2. Seleziona uno o più dispositivi da rimuovere;
 
-6. **Connettere alla Rete Wi-Fi:** Usa l'app iDispenser per connetterti (fare riferimento alla sezione "Configurazione Wi-Fi")
+3. Fai clic sull'icona "Remove device", apparirà un messaggio "Delete device or dismiss group？", fai clic su "Confirm" per confermare l'eliminazione;
 
-7. **Impostare l'Ora:** Fare riferimento alla sezione "Impostare l'Ora" nel manuale
+4. Fai clic su "Done" per tornare alla pagina principale.
 
-8. **Regolare le Impostazioni:**
-   - Regola il volume, il formato della data e il formato dell'ora dall'app iDispenser (fare riferimento alla sezione "Panoramica delle Impostazioni")
-   - Oppure regola il volume dell'allarme, il tipo di allarme sul distributore e seleziona il formato 12 o 24 ore (fare riferimento alle sezioni pertinenti nel manuale)
-
-9. **Impostare gli Orari dei Farmaci:**
-   - Imposta il calendario dei farmaci dall'app iDispenser (fare riferimento alla sezione "Impostazione del Calendario dei Farmaci")
-   - Oppure imposta gli orari di allarme dei farmaci sul distributore (fare riferimento alla sezione "Impostare gli Allarmi" nel manuale)
-
-10. **Bloccare il Coperchio:** Usa la chiave fornita per chiudere e bloccare il coperchio
-
-11. **Distribuzione Automatica:** All'orario designato per i farmaci, suonerà l'allarme e il bicchiere per i medicinali si spingerà automaticamente verso l'esterno
-
-12. **Arrestare l'Allarme:** Quando rimuovi il bicchiere per i medicinali, l'allarme dovrebbe arrestarsi automaticamente
-
-13. **Rimettere il Bicchiere per i Medicinali:** Dopo aver assunto il farmaco, rimetti il bicchiere per i medicinali nell'uscita fino a sentire un suono di "clic", indicando che il bicchiere per i medicinali è nella posizione corretta
-
-14. **Posizionare il Dispositivo:** Posiziona il distributore di pillole su una superficie piana
+   <img src="./assets/304.webp" alt="304" width="100%" />
 
 ---
 
-## 8. Cura e Manutenzione
+## 7. Utilizzo del distributore di pillole
 
-- **Pulire l'Esterno:** Pulisci l'esterno con un panno morbido e umido. Non usare detergenti abrasivi
+### Passaggi di utilizzo base
 
-- **Pulire la Scatola dei Medicinali Interna:**
-  - Se necessario, rimuovi la scatola dei medicinali interna
-  - Sciacqua/asciuga delicatamente ogni scomparto per medicinali
-  - Lascia asciugare completamente il contenitore prima di riposizionarlo o ricaricarlo
+1. **Seleziona l'anello di dose giornaliera:** Seleziona l'anello di dose giornaliera che soddisfa le tue esigenze (consultare la sezione "Understanding Daily Dose Rings" nel manuale)
 
-- **Avviso di Impermeabilità:** Non immergere il distributore di pillole esterno in acqua o qualsiasi altro liquido
+2. **Posiziona l'anello di dose e la medicazione:**
+   - Posiziona l'anello di dose giornaliera al centro della scatola di medicazione interna
+   - Metti la medicazione nella scatola di medicazione, corrispondente all'ora di presa (1ª, 2ª, 3ª, ecc.)
+   - Posizionala secondo i numeri (1, 2, 3, ecc.) sull'anello
+   - Non mettere alcuna medicazione nella parte bianca
+   - Quando vedi che la parte bianca si avvicina all'uscita delle medicazioni, è tempo di rifornire
 
-- **Mantenere la Pulizia:** Assicurati che la scatola dei medicinali interna sia pulita e asciutta prima di ricaricare
+3. **Installa la batteria:** Consultare la sezione "Install Battery" nel manuale
+
+4. **Sblocca il coperchio:**
+   - Usa la chiave per sbloccare il coperchio (consultare la sezione "Locking and Unlocking the Cover")
+   - Metti la tazza per le pillole all'interno del corpo
+
+5. **Inserisci il cavo di alimentazione**
+
+6. **Connettiti alla rete Wi-Fi:** Usa l'app iDispenser per connetterti (consultare la sezione "Wi-Fi Setup")
+
+7. **Imposta l'ora:** Consultare la sezione "Set Time" nel manuale
+
+8. **Regola le impostazioni:**
+   - Regola il volume, il formato della data e il formato dell'ora dall'app iDispenser (consultare la sezione "Settings Overview")
+   - O regola il volume dell'allarme, il tipo di allarme e seleziona il formato 12 o 24 ore sul distributore (consultare le sezioni corrispondenti nel manuale)
+
+9. **Imposta l'ora di medicazione:**
+   - Imposta il programma di medicazione dall'app iDispenser (consultare la sezione "Setting Medication Schedule")
+   - O imposta l'ora di allarme per la medicazione sul distributore (consultare la sezione "Setting Alarms" nel manuale)
+
+10. **Blocca il coperchio:** Usa la chiave fornita per chiudere e bloccare il coperchio
+
+11. **Distribuzione automatica di medicazioni:** Nell'ora di medicazione specificata, suonerà l'allarme e la tazza per le pillole uscirà automaticamente
+
+12. **Ferma l'allarme:** Quando rimuovi la tazza per le pillole, l'allarme dovrebbe fermarsi automaticamente
+
+13. **Riporta la tazza per le pillole:** Dopo aver preso la medicazione, riporta la tazza per le pillole all'uscita fino a sentire un clic, indicando che la tazza per le pillole è nella posizione corretta
+
+14. **Posiziona il dispositivo:** Posiziona il distributore di pillole su una superficie piana
 
 ---
 
-## Note
+## 8. Cura e manutenzione
 
-- Wi-Fi, WPA e WPA2 sono marchi registrati di Wi-Fi Alliance negli Stati Uniti e/o in altri paesi
-- Bluetooth è un marchio registrato di Bluetooth SIG, Inc. USA
-- Android e Google Play sono marchi registrati di Google LLC
-- Apple, iOS e App Store sono marchi registrati di Apple Inc. negli Stati Uniti e in altri paesi
-- Tutti gli altri nomi di prodotti, nomi di marchi, nomi di aziende e loghi sono marchi registrati dei rispettivi proprietari, utilizzati solo a scopo identificativo e non implicano alcuno sponsorizzazione, approvazione o autorizzazione
+- **Pulire l'esterno:** Pulisci l'esterno con un panno morbido e umido. Non usare detergenti aggressivi
+
+- **Pulire la scatola di medicazione interna:**
+  - Se necessario, rimuovi la scatola di medicazione interna
+  - Sciacqua/pulisci delicatamente ogni compartimento per le medicazioni
+  - Lascia che il contenitore si asciughi completamente prima di rimpiazzarlo o rifornirlo
+
+- **Precauzioni contro l'acqua:** Non immergere il distributore di pillole esterno in acqua o in qualsiasi altro liquido
+
+- **Mantieni pulito:** Assicurati che la scatola di medicazione interna sia pulita e asciutta prima di rifornirla
 
 ---
 
-**Per qualsiasi domanda, contatta il servizio clienti Retekess. Le informazioni di contatto si trovano sulla scatola dell'imballaggio del prodotto o sul manuale cartaceo**
+## Nota
+
+- Wi-Fi, WPA e WPA2 sono marchi della Wi-Fi Alliance negli Stati Uniti e/o in altri paesi
+- Bluetooth è un marchio di Bluetooth SIG, Inc. USA
+- Android e Google Play sono marchi di Google LLC
+- Apple, iOS e App Store sono marchi di Apple Inc. negli Stati Uniti e in altri paesi
+- Tutti gli altri prodotti, nomi di marchi, nomi di aziende e loghi sono marchi dei rispettivi proprietari e vengono usati solo per identificare i rispettivi prodotti, e non implicano alcun sponsorizzazione, approvazione o approvazione
+
+---
+
+**Per qualsiasi domanda, contatta il servizio clienti Retekess. Le informazioni di contatto sono disponibili sulla scatola di imballaggio del prodotto o nel manuale cartaceo**
