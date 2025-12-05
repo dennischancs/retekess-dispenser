@@ -8,7 +8,7 @@
 
 通过以下方式在您或您的护理人员的智能手机上下载并安装iDispenser APP:
 
-<img src="./assets/app_qr_code@4x.webp" alt="app_qr_code" width="67%" />
+<p align="center"><img src="./assets/app_qr_code@4x.webp" alt="app_qr_code" width="67%" /></p>
 
 - iOS用户:访问App Store
 - Android用户:访问Google Play或直接下载
@@ -21,7 +21,7 @@
 
 1. 打开iDispenser APP并点击"注册"
 
-   <img src="./assets/301.webp" alt="301" width="35%" />
+   <p align="center"><img src="./assets/301.webp" alt="301" width="35%" /></p>
 
 2. 选择你的国家或地区
 
@@ -37,7 +37,7 @@
 
 7. 登陆后，按APP提示，同意并授于APP设备的定位与蓝牙权限
 
-   <img src="./assets/302.webp" alt="302" width="35%" />
+  <p align="center"> <img src="./assets/302.webp" alt="302" width="35%" /></p>
 
 ---
 
@@ -45,7 +45,7 @@
 
 **设备进入AP模式**
 
-<img src="./assets/1.svg" alt="1"  width="40%"  />
+<p align="center"><img src="./assets/1.svg" alt="1"  width="40%"  />
 
 1. 在设备的主页时钟模式下,长按设备的"+"按钮3秒进入Wi-Fi AP模式；
 2. 此时扬声器会播报"AP Mode"语音,LED灯开始闪烁；
@@ -65,11 +65,11 @@
 3. 输入Wi-Fi网络名称和密码,然后点击"下一步"(Next)
 4. 等待移动设备和药物分配器连接
 
-<img src="./assets/305.webp" alt="305" width="100%" />
+<p align="center"><img src="./assets/305.webp" alt="305" width="100%" /></p>
 
 5. Wi-Fi连接成功后，APP显示“added suuccessfully”，点击“Done“返回。此时，设备的显示屏上会显示"<img src="./assets/2.svg" alt="2"  width="3%" />"符号。
 
-<img src="./assets/306.webp" alt="306" width="45%" />
+<p align="center"><img src="./assets/306.webp" alt="306" width="45%" /></p>
 
 ### 4.2 连接失败排查
 
@@ -87,11 +87,11 @@
 
 在首页，点击“TH017 WIFI Pill Dispenser”设备，进入该设备配置页面。
 
-<img src="./assets/309.webp" alt="309" width="35%"  />
+<p align="center"><img src="./assets/309.webp" alt="309" width="35%"  /></p>
 
 ### 5.1 设置用药计划
 
-<img src="./assets/307.webp" alt="307" width="100%" />
+<p align="center"><img src="./assets/307.webp" alt="307" width="100%" /></p>
 
 首次通过APP操作药物分配器时,需要设置用药计划:
 
@@ -112,7 +112,7 @@
 
 ### 5.2 仪表盘概述(Dashboard Overview)
 
-<img src="./assets/308.webp" alt="308" width="35%" />
+<p align="center"><img src="./assets/308.webp" alt="308" width="35%" /></p>
 
 **下次剂量(Next Dose)**
 
@@ -154,7 +154,7 @@
 
 5. 药物分配器内置传感器,可以感知何时从药盒中取出药物
 
-   <img src="./assets/29@4x.webp" alt="29@4x" width="50%" />
+   <p align="center"><img src="./assets/29@4x.webp" alt="29@4x" width="50%" /></p>
 
 **提前服药**
 
@@ -166,7 +166,7 @@
 
 **注意:** 如果您试图提前一天服药,"提前服用"按钮将不起作用。
 
-<img src="./assets/30@4x.webp" alt="30@4x" width="50%" />
+<p align="center"><img src="./assets/30@4x.webp" alt="30@4x" width="50%" /></p>
 
 
 
@@ -182,7 +182,7 @@
 
 **注意:** 记录将在14天后开始删除。
 
-<img src="./assets/210@4x.webp" alt="210@4x" width="25%" />
+<p align="center"><img src="./assets/210@4x.webp" alt="210@4x" width="25%" /></p>
 
 ### 5.5 闹钟概述(Alarms Overview)
 
@@ -196,7 +196,7 @@
 2. 调整时间或编辑该闹钟的备注
 3. 点击"保存"(Save)确认更改
 
-<img src="./assets/211@4x.webp" alt="211@4x" width="25%" />
+<p align="center"><img src="./assets/211@4x.webp" alt="211@4x" width="25%" /></p>
 
 ### 5.6 设置概述(Settings Overview)
 
@@ -212,13 +212,13 @@
 - **重置闹钟(Reset Alarm):** 重置所有闹钟
 - **全部重置(Reset All):** 重置所有内容,重新开始
 
-<img src="./assets/212@4x.webp" alt="212@4x" width="25%" />
+<p align="center"><img src="./assets/212@4x.webp" alt="212@4x" width="25%" /></p>
 
 ### 5.7 选项概述(Options Overview)
 
 1. 点击屏幕右上角的选项<img src="./assets/3.webp" alt="3" width="3%" />图标进入选项界面。
 
-<img src="./assets/310.webp" alt="310" width="25%" />
+<p align="center"><img src="./assets/310.webp" alt="310" width="25%" /></p>
 
 2. 在此界面可以:
 
@@ -235,7 +235,7 @@
 1. 点击屏幕右上角的选项<img src="./assets/3.webp" alt="3" width="3%" />图标进入选项界面。
 2. 点击“<img src="./assets/312.webp" alt="312"  width="3%" />Share Device”，进入共享界面
 
-<img src="./assets/311.webp" alt="311" width="50%" />
+<p align="center"><img src="./assets/311.webp" alt="311" width="50%" /></p>
 
 3. 增加共享账号，有两个方法：
 
@@ -243,11 +243,11 @@
 
    注：当前账号与目标共享账号需要在同一个国家或地区，否则可能会报错，无法添加目标账户。
 
-   <img src="./assets/313.webp" alt="313" width="50%" />
+   <p align="center"><img src="./assets/313.webp" alt="313" width="50%" /></p>
 
    ***方法2：***填写你想共享多少个账号（最多6人），然后点击Copy复制共享的链接，通过你的社交账户分享给你的家人。你的家人点击链接，跳转并接受邀请，则可以进入并访问设备。
 
-   <img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" />
+   <p align="center"><img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" /></p>
 
    
 
@@ -257,11 +257,11 @@
 
 1. 在主分享账号上，对你想移除共享的账号，向左滑动，并点击“Delete“，出现再确认的弹窗，点击“Delete“，完成移除。
 
-   <img src="./assets/316.webp" alt="316" width="50%" />
+   <p align="center"><img src="./assets/316.webp" alt="316" width="50%" /></p>
 
 2. 在被分享账号上，点击屏幕右上角的选项<img src="./assets/3.webp" alt="3" width="3%" />图标进入选项界面，点击“Remove Sharing”，完成移除。
 
-<img src="./assets/317.webp" alt="317" width="25%"/>
+<p align="center"><img src="./assets/317.webp" alt="317" width="25%"/></p>
 
 ---
 
@@ -271,7 +271,7 @@
 
 在主页选择: Me → Settings → APP notification
 
-<img src="./assets/303.webp" alt="303" width="75%" />
+<p align="center"><img src="./assets/303.webp" alt="303" width="75%" /></p>
 
 ### 6.2 移除设备
 
@@ -283,7 +283,7 @@
 
 4. 点击"完成"(Done)返回主页。
 
-   <img src="./assets/304.webp" alt="304" width="100%" />
+   <p align="center"><img src="./assets/304.webp" alt="304" width="100%" /></p>
 
 ---
 
