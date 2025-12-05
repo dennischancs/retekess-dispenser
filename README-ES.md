@@ -211,20 +211,50 @@ La interfaz de configuración le permite cambiar las siguientes opciones:
 
 ### 5.7 Descripción general de las opciones
 
-Haga clic en el icono de opciones <img src="./assets/3.webp" alt="3" width="3%" /> en la esquina superior derecha de la pantalla para acceder a la interfaz de opciones.
+1. Haga clic en el icono de opciones <img src="./assets/3.webp" alt="3" width="3%" /> en la esquina superior derecha de la pantalla para acceder a la interfaz de opciones.
 
-En esta interfaz puede:
-- Ver información del dispositivo
-- Ver red del dispositivo
-- Cambiar el nombre del dispensador de pastillas <img src="./assets/3.webp" alt="3" width="3%" />
-- Compartir información del dispensador de pastillas con otros usuarios de la APP
-- Eliminar completamente el dispositivo de la APP
+<img src="./assets/310.webp" alt="310" width="25%" />
 
-#### Actualizaciones del dispositivo
+2. En esta interfaz puede:
 
-La APP iDispenser le notificará cuando el dispensador de pastillas necesite una actualización:
-1. Cuando aparezca una ventana emergente, haga clic en "Update Now" para acceder a la página de actualización del dispositivo
-2. Haga clic en "Update" para comenzar la actualización
+- <img src="./assets/31.webp" alt="3" width="6%" />：Cambiar el nombre del dispensador de pastillas
+- Device Information：Visualizar información del dispositivo 
+- Device Network：Visualizar la red del dispositivo 
+- Share Device：Compartir dispositivo, puede compartir información del dispensador de pastillas con otros usuarios de la APP
+- Remove Device：Eliminar completamente el dispositivo de la APP
+
+### 5.8 Compartir dispositivo (Share Device)
+
+**Compartir：**
+
+1. Haga clic en el icono de opciones <img src="./assets/3.webp" alt="3" width="3%" /> en la esquina superior derecha de la pantalla para acceder a la interfaz de opciones.
+2. Haga clic en "<img src="./assets/312.webp" alt="312"  width="3%" />Share Device" para acceder a la interfaz de compartir
+
+<img src="./assets/311.webp" alt="311" width="50%" />
+
+3. Agregar cuentas compartidas, hay dos métodos:
+
+   ***Método 1：***Haga clic en Add, seleccione Region (país o región donde se encuentra la cuenta objetivo), complete Account (dirección de correo electrónico de la cuenta objetivo), luego haga clic en Done para completar la adición. En este momento, sus familiares pueden acceder y visitar el dispositivo.
+
+   Nota: La cuenta actual y la cuenta compartida objetivo deben estar en el mismo país o región, de lo contrario, puede ocurrir un error y no se puede agregar la cuenta objetivo.
+
+   <img src="./assets/313.webp" alt="313" width="50%" />
+
+   ***Método 2：***Complete cuántas cuentas desea compartir (máximo 6 personas), luego haga clic en Copy para copiar el enlace de compartir y compártalo con sus familiares a través de su cuenta social. Sus familiares hacen clic en el enlace, saltan y aceptan la invitación, luego pueden acceder y visitar el dispositivo.
+
+   <img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" />
+
+**Eliminar compartir：**
+
+Teniendo en cuenta el escenario de uso de la caja de medicamentos, si necesita eliminar el compartir, debe realizar la operación de eliminación tanto en la cuenta principal de compartir como en la cuenta compartida para completar la eliminación de la función de compartir.
+
+1. En la cuenta principal de compartir, deslice hacia la izquierda en la cuenta de la que desea eliminar el compartir y haga clic en "Delete", aparecerá un cuadro emergente de confirmación, haga clic en "Delete" para completar la eliminación.
+
+   <img src="./assets/316.webp" alt="316" width="50%" />
+
+2. En la cuenta compartida, haga clic en el icono de opciones <img src="./assets/3.webp" alt="3" width="3%" /> en la esquina superior derecha de la pantalla para acceder a la interfaz de opciones, haga clic en "Remove Sharing" para completar la eliminación.
+
+<img src="./assets/317.webp" alt="317" width="25%"/>
 
 ---
 

@@ -211,20 +211,50 @@ The settings interface allows you to change the following options:
 
 ### 5.7 Options Overview
 
-Click the options <img src="./assets/3.webp" alt="3" width="3%" /> icon in the upper right corner of the screen to enter the options interface.
+1. Click the options <img src="./assets/3.webp" alt="3" width="3%" /> icon in the upper right corner of the screen to enter the options interface.
 
-In this interface you can:
-- View Device Information
-- View Device Network
-- Change the pill dispenser name <img src="./assets/3.webp" alt="3" width="3%" />
-- Share pill dispenser information with other APP users
-- Completely remove the device from the APP
+<img src="./assets/310.webp" alt="310" width="25%" />
 
-#### Device Updates
+2. In this interface you can:
 
-The iDispenser APP will notify you when the pill dispenser needs an update:
-1. When a pop-up window appears, click "Update Now" to enter the device update page
-2. Click "Update" to start the update
+- <img src="./assets/31.webp" alt="3" width="6%" />：Change the pill dispenser name
+- Device Information：View device information 
+- Device Network：View device network 
+- Share Device：Share the device, can share pill dispenser information with other APP users
+- Remove Device：Completely remove the device from the APP
+
+### 5.8 Share Device
+
+**Share：**
+
+1. Click the options <img src="./assets/3.webp" alt="3" width="3%" /> icon in the upper right corner of the screen to enter the options interface.
+2. Click "<img src="./assets/312.webp" alt="312"  width="3%" />Share Device" to enter the sharing interface
+
+<img src="./assets/311.webp" alt="311" width="50%" />
+
+3. Add shared accounts, there are two methods:
+
+   ***Method 1：***Click Add, select Region (the country or region where the target account is located), fill in Account (the target account's email address), and then click Done to complete the addition. At this time, your family members can access and visit the device.
+
+   Note: The current account and the target shared account need to be in the same country or region, otherwise an error may occur and the target account cannot be added.
+
+   <img src="./assets/313.webp" alt="313" width="50%" />
+
+   ***Method 2：***Fill in how many accounts you want to share with (maximum 6 people), then click Copy to copy the sharing link, and share it with your family members through your social account. Your family members click the link, jump and accept the invitation, then they can access and visit the device.
+
+   <img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" />
+
+**Remove Sharing：**
+
+Considering the usage scenario of the medicine box, if you need to remove sharing, you need to perform the removal operation on both the main sharing account and the shared account to complete the removal of the sharing function.
+
+1. On the main sharing account, swipe left on the account you want to remove sharing from, and click "Delete", a confirmation pop-up will appear, click "Delete" to complete the removal.
+
+   <img src="./assets/316.webp" alt="316" width="50%" />
+
+2. On the shared account, click the options <img src="./assets/3.webp" alt="3" width="3%" /> icon in the upper right corner of the screen to enter the options interface, click "Remove Sharing" to complete the removal.
+
+<img src="./assets/317.webp" alt="317" width="25%"/>
 
 ---
 

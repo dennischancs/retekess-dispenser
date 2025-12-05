@@ -211,20 +211,50 @@ A interface de configurações permite que você altere as seguintes opções:
 
 ### 5.7 Visão geral das opções
 
-Clique no ícone de opções <img src="./assets/3.webp" alt="3" width="3%" /> no canto superior direito da tela para acessar a interface de opções.
+1. Clique no ícone de opções <img src="./assets/3.webp" alt="3" width="3%" /> no canto superior direito da tela para acessar a interface de opções.
 
-Nesta interface, você pode:
-- Visualizar informações do dispositivo
-- Visualizar a rede do dispositivo
-- Alterar o nome do dispensador de pílulas <img src="./assets/3.webp" alt="3" width="3%" />
-- Compartilhar informações do dispensador de pílulas com outros usuários do aplicativo
-- Remover completamente o dispositivo do aplicativo
+<img src="./assets/310.webp" alt="310" width="25%" />
 
-#### Atualizações do dispositivo
+2. Nesta interface, você pode:
 
-O aplicativo iDispenser notificará você quando o dispensador de pílulas precisar de uma atualização:
-1. Quando uma janela pop-up aparecer, clique em "Update Now" para acessar a página de atualização do dispositivo
-2. Clique em "Update" para iniciar a atualização
+- <img src="./assets/31.webp" alt="3" width="6%" />：Alterar o nome do dispensador de pílulas
+- Device Information：Visualizar informações do dispositivo 
+- Device Network：Visualizar a rede do dispositivo 
+- Share Device：Compartilhar dispositivo, pode compartilhar informações do dispensador de pílulas com outros usuários do aplicativo
+- Remove Device：Remover completamente o dispositivo do aplicativo
+
+### 5.8 Compartilhar dispositivo (Share Device)
+
+**Compartilhar：**
+
+1. Clique no ícone de opções <img src="./assets/3.webp" alt="3" width="3%" /> no canto superior direito da tela para acessar a interface de opções.
+2. Clique em "<img src="./assets/312.webp" alt="312"  width="3%" />Share Device" para acessar a interface de compartilhamento
+
+<img src="./assets/311.webp" alt="311" width="50%" />
+
+3. Adicione contas compartilhadas, existem dois métodos:
+
+   ***Método 1：***Clique em Add, selecione Region (país ou região onde a conta de destino está localizada), preencha Account (endereço de e-mail da conta de destino), em seguida clique em Done para completar a adição. Neste momento, seus familiares podem acessar e visitar o dispositivo.
+
+   Nota: A conta atual e a conta compartilhada de destino precisam estar no mesmo país ou região, caso contrário, um erro pode ocorrer e a conta de destino não pode ser adicionada.
+
+   <img src="./assets/313.webp" alt="313" width="50%" />
+
+   ***Método 2：***Preencha quantas contas você deseja compartilhar (máximo 6 pessoas), em seguida clique em Copy para copiar o link de compartilhamento e compartilhá-lo com seus familiares por meio da sua conta social. Seus familiares clicam no link, pulam e aceitam o convite, depois podem acessar e visitar o dispositivo.
+
+   <img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" />
+
+**Remover compartilhamento：**
+
+Considerando o cenário de uso da caixa de pílulas, se você precisar remover o compartilhamento, é necessário executar a operação de remoção tanto na conta principal de compartilhamento quanto na conta compartilhada para concluir a remoção da função de compartilhamento.
+
+1. Na conta principal de compartilhamento, arraste para a esquerda na conta que você deseja remover o compartilhamento e clique em "Delete", uma janela pop-up de confirmação aparecerá, clique em "Delete" para concluir a remoção.
+
+   <img src="./assets/316.webp" alt="316" width="50%" />
+
+2. Na conta compartilhada, clique no ícone de opções <img src="./assets/3.webp" alt="3" width="3%" /> no canto superior direito da tela para acessar a interface de opções, clique em "Remove Sharing" para concluir a remoção.
+
+<img src="./assets/317.webp" alt="317" width="25%"/>
 
 ---
 

@@ -211,20 +211,50 @@ L'interface des paramètres vous permet de modifier les options suivantes :
 
 ### 5.7 Aperçu des options
 
-Cliquez sur l'icône d'options <img src="./assets/3.webp" alt="3" width="3%" /> dans le coin supérieur droit de l'écran pour accéder à l'interface des options.
+1. Cliquez sur l'icône d'options <img src="./assets/3.webp" alt="3" width="3%" /> dans le coin supérieur droit de l'écran pour accéder à l'interface des options.
 
-Dans cette interface, vous pouvez :
-- Voir les informations de l'appareil
-- Voir le réseau de l'appareil
-- Changer le nom du distributeur de pilules <img src="./assets/3.webp" alt="3" width="3%" />
-- Partager les informations du distributeur de pilules avec d'autres utilisateurs de l'application
-- Supprimer complètement l'appareil de l'application
+<img src="./assets/310.webp" alt="310" width="25%" />
 
-#### Mises à jour de l'appareil
+2. Dans cette interface, vous pouvez :
 
-L'application iDispenser vous notifiera lorsque le distributeur de pilules aura besoin d'une mise à jour :
-1. Lorsqu'une fenêtre contextuelle apparaît, cliquez sur "Update Now" pour accéder à la page de mise à jour de l'appareil
-2. Cliquez sur "Update" pour démarrer la mise à jour
+- <img src="./assets/31.webp" alt="3" width="6%" />：Changer le nom du distributeur de pilules
+- Device Information：Voir les informations de l'appareil 
+- Device Network：Voir le réseau de l'appareil 
+- Share Device：Partager l'appareil, peut partager les informations du distributeur de pilules avec d'autres utilisateurs de l'application
+- Remove Device：Supprimer complètement l'appareil de l'application
+
+### 5.8 Partager l'appareil (Share Device)
+
+**Partager：**
+
+1. Cliquez sur l'icône d'options <img src="./assets/3.webp" alt="3" width="3%" /> dans le coin supérieur droit de l'écran pour accéder à l'interface des options.
+2. Cliquez sur "<img src="./assets/312.webp" alt="312"  width="3%" />Share Device" pour accéder à l'interface de partage
+
+<img src="./assets/311.webp" alt="311" width="50%" />
+
+3. Ajoutez des comptes partagés, il y a deux méthodes :
+
+   ***Méthode 1：***Cliquez sur Add, sélectionnez Region (pays ou région où se trouve le compte cible), remplissez Account (adresse e-mail du compte cible), puis cliquez sur Done pour terminer l'ajout. À ce moment, vos proches peuvent accéder et visiter l'appareil.
+
+   Remarque : Le compte actuel et le compte partagé cible doivent être dans le même pays ou la même région, sinon une erreur peut survenir et le compte cible ne peut pas être ajouté.
+
+   <img src="./assets/313.webp" alt="313" width="50%" />
+
+   ***Méthode 2：***Remplissez le nombre de comptes avec lesquels vous souhaitez partager (maximum 6 personnes), puis cliquez sur Copy pour copier le lien de partage et partagez-le avec vos proches via votre compte social. Vos proches cliquent sur le lien, sautent et acceptent l'invitation, puis ils peuvent accéder et visiter l'appareil.
+
+   <img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" />
+
+**Supprimer le partage：**
+
+Compte tenu du scénario d'utilisation de la boîte à médicaments, si vous avez besoin de supprimer le partage, vous devez effectuer l'opération de suppression sur le compte principal de partage et sur le compte partagé pour terminer la suppression de la fonction de partage.
+
+1. Sur le compte principal de partage, faites glisser vers la gauche le compte avec lequel vous souhaitez supprimer le partage, et cliquez sur "Delete", une fenêtre contextuelle de confirmation apparaîtra, cliquez sur "Delete" pour terminer la suppression.
+
+   <img src="./assets/316.webp" alt="316" width="50%" />
+
+2. Sur le compte partagé, cliquez sur l'icône d'options <img src="./assets/3.webp" alt="3" width="3%" /> dans le coin supérieur droit de l'écran pour accéder à l'interface des options, cliquez sur "Remove Sharing" pour terminer la suppression.
+
+<img src="./assets/317.webp" alt="317" width="25%"/>
 
 ---
 

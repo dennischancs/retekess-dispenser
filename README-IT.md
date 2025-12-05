@@ -211,20 +211,50 @@ L'interfaccia delle impostazioni ti consente di modificare le seguenti opzioni:
 
 ### 5.7 Panoramica delle opzioni
 
-Fai clic sull'icona delle opzioni <img src="./assets/3.webp" alt="3" width="3%" /> nell'angolo superiore destro dello schermo per accedere all'interfaccia delle opzioni.
+1. Clicca sull'icona delle opzioni <img src="./assets/3.webp" alt="3" width="3%" /> nell'angolo superiore destro dello schermo per accedere all'interfaccia delle opzioni.
 
-In questa interfaccia puoi:
-- Visualizzare le informazioni del dispositivo
-- Visualizzare la rete del dispositivo
-- Modificare il nome del distributore di pillole <img src="./assets/3.webp" alt="3" width="3%" />
-- Condividere le informazioni del distributore di pillole con altri utenti dell'app
-- Rimuovere completamente il dispositivo dall'app
+<img src="./assets/310.webp" alt="310" width="25%" />
 
-#### Aggiornamenti del dispositivo
+2. In questa interfaccia puoi:
 
-L'app iDispenser ti notificherà quando il distributore di pillole avrà bisogno di un aggiornamento:
-1. Quando appare una finestra popup, fai clic su "Update Now" per accedere alla pagina di aggiornamento del dispositivo
-2. Fai clic su "Update" per iniziare l'aggiornamento
+- <img src="./assets/31.webp" alt="3" width="6%" />：Modificare il nome del distributore di pillole
+- Device Information：Visualizzare le informazioni del dispositivo 
+- Device Network：Visualizzare la rete del dispositivo 
+- Share Device：Condividi dispositivo, può condividere le informazioni del distributore di pillole con altri utenti dell'app
+- Remove Device：Rimuovere completamente il dispositivo dall'app
+
+### 5.8 Condividi dispositivo (Share Device)
+
+**Condividi：**
+
+1. Clicca sull'icona delle opzioni <img src="./assets/3.webp" alt="3" width="3%" /> nell'angolo superiore destro dello schermo per accedere all'interfaccia delle opzioni.
+2. Clicca su "<img src="./assets/312.webp" alt="312"  width="3%" />Share Device" per accedere all'interfaccia di condivisione
+
+<img src="./assets/311.webp" alt="311" width="50%" />
+
+3. Aggiungi account condivisi, ci sono due metodi:
+
+   ***Metodo 1：***Clicca su Add, seleziona Region (paese o regione dove si trova l'account di destinazione), compila Account (indirizzo email dell'account di destinazione), quindi clicca su Done per completare l'aggiunta. In questo momento, i tuoi familiari possono accedere e visitare il dispositivo.
+
+   Nota: L'account attuale e l'account condiviso di destinazione devono essere nella stessa nazione o regione, altrimenti potrebbe verificarsi un errore e non è possibile aggiungere l'account di destinazione.
+
+   <img src="./assets/313.webp" alt="313" width="50%" />
+
+   ***Metodo 2：***Compila quante account vuoi condividere (massimo 6 persone), quindi clicca su Copy per copiare il link di condivisione e condividerlo con i tuoi familiari attraverso il tuo account sociale. I tuoi familiari cliccano sul link, saltano e accettano l'invito, quindi possono accedere e visitare il dispositivo.
+
+   <img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" />
+
+**Rimuovi condivisione：**
+
+Considerando lo scenario di utilizzo della scatola di pillole, se hai bisogno di rimuovere la condivisione, devi eseguire l'operazione di rimozione sia sull'account principale di condivisione che sull'account condiviso per completare la rimozione della funzione di condivisione.
+
+1. Sull'account principale di condivisione, scorri a sinistra sull'account da cui vuoi rimuovere la condivisione e clicca su "Delete", apparirà una finestra popup di conferma, clicca su "Delete" per completare la rimozione.
+
+   <img src="./assets/316.webp" alt="316" width="50%" />
+
+2. Sull'account condiviso, clicca sull'icona delle opzioni <img src="./assets/3.webp" alt="3" width="3%" /> nell'angolo superiore destro dello schermo per accedere all'interfaccia delle opzioni, clicca su "Remove Sharing" per completare la rimozione.
+
+<img src="./assets/317.webp" alt="317" width="25%"/>
 
 ---
 

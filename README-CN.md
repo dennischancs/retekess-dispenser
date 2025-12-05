@@ -216,20 +216,52 @@
 
 ### 5.7 选项概述(Options Overview)
 
-点击屏幕右上角的选项<img src="./assets/3.webp" alt="3" width="3%" />图标进入选项界面。
+1. 点击屏幕右上角的选项<img src="./assets/3.webp" alt="3" width="3%" />图标进入选项界面。
 
-在此界面可以:
-- 查看设备信息 Device Information
-- 查看设备网络 Device Network
-- 更改药物分配器名称 <img src="./assets/3.webp" alt="3" width="3%" />
-- 与其他APP用户共享药物分配器信息 Share Device
-- 从APP中完全移除设备 Remove Device
+<img src="./assets/310.webp" alt="310" width="25%" />
 
-#### 设备更新
+2. 在此界面可以:
 
-iDispenser APP会在药物分配器需要更新时通知您:
-1. 弹窗出现时,点击"立即更新"(Update Now)进入设备更新页面
-2. 点击"更新"(Update)开始更新
+- <img src="./assets/31.webp" alt="3" width="6%" />：更改药物分配器名称
+- Device Information：查看设备信息 
+- Device Network：查看设备网络 
+- Share Device：共享设备，可与其他APP用户共享药物分配器信息
+- Remove Device：从APP中完全移除设备
+
+### 5.8 共享设备(Share Device)
+
+**共享：**
+
+1. 点击屏幕右上角的选项<img src="./assets/3.webp" alt="3" width="3%" />图标进入选项界面。
+2. 点击“<img src="./assets/312.webp" alt="312"  width="3%" />Share Device”，进入共享界面
+
+<img src="./assets/311.webp" alt="311" width="50%" />
+
+3. 增加共享账号，有两个方法：
+
+   ***方法1：***点击Add，选择Region（目标账户所在国家或地区），填写Account（目标账户的email address），再点击Done完成填加。此时，你的家人可以进入并访问设备。
+
+   注：当前账号与目标共享账号需要在同一个国家或地区，否则可能会报错，无法添加目标账户。
+
+   <img src="./assets/313.webp" alt="313" width="50%" />
+
+   ***方法2：***填写你想共享多少个账号（最多6人），然后点击Copy复制共享的链接，通过你的社交账户分享给你的家人。你的家人点击链接，跳转并接受邀请，则可以进入并访问设备。
+
+   <img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" />
+
+   
+
+**移除共享：**
+
+考虑到药盒使用场景，若需要移除共享，需要分别在主分享账号、被分享账号都执行移除操作，才可完成共享功能的移除。
+
+1. 在主分享账号上，对你想移除共享的账号，向左滑动，并点击“Delete“，出现再确认的弹窗，点击“Delete“，完成移除。
+
+   <img src="./assets/316.webp" alt="316" width="50%" />
+
+2. 在被分享账号上，点击屏幕右上角的选项<img src="./assets/3.webp" alt="3" width="3%" />图标进入选项界面，点击“Remove Sharing”，完成移除。
+
+<img src="./assets/317.webp" alt="317" width="25%"/>
 
 ---
 

@@ -211,20 +211,50 @@ Die Einstellungsoberfläche ermöglicht es Ihnen, die folgenden Optionen zu änd
 
 ### 5.7 Optionenübersicht
 
-Klicken Sie auf das Optionen-<img src="./assets/3.webp" alt="3" width="3%" />-Symbol in der oberen rechten Ecke des Bildschirms, um die Optionenoberfläche zu öffnen.
+1. Klicken Sie auf das Optionen-<img src="./assets/3.webp" alt="3" width="3%" />-Symbol in der oberen rechten Ecke des Bildschirms, um die Optionenoberfläche zu öffnen.
 
-Auf dieser Oberfläche können Sie:
-- Geräteinformationen anzeigen
-- Gerätenetzwerk anzeigen
-- Den Namen des Pillenverteilers ändern <img src="./assets/3.webp" alt="3" width="3%" />
-- Pillenverteilerinformationen mit anderen APP-Benutzern teilen
-- Das Gerät vollständig aus der APP entfernen
+<img src="./assets/310.webp" alt="310" width="25%" />
 
-#### Geräteupdates
+2. Auf dieser Oberfläche können Sie:
 
-Die iDispenser APP benachrichtigt Sie, wenn der Pillenverteiler ein Update benötigt:
-1. Klicken Sie bei Erscheinen eines Pop-up-Fensters auf "Update Now", um die Geräteupdate-Seite zu öffnen
-2. Klicken Sie auf "Update", um das Update zu starten
+- <img src="./assets/31.webp" alt="3" width="6%" />：Den Namen des Pillenverteilers ändern
+- Device Information：Geräteinformationen anzeigen 
+- Device Network：Gerätenetzwerk anzeigen 
+- Share Device：Gerät freigeben, kann Pillenverteilerinformationen mit anderen APP-Benutzern teilen
+- Remove Device：Das Gerät vollständig aus der APP entfernen
+
+### 5.8 Gerät freigeben (Share Device)
+
+**Freigeben：**
+
+1. Klicken Sie auf das Optionen-<img src="./assets/3.webp" alt="3" width="3%" />-Symbol in der oberen rechten Ecke des Bildschirms, um die Optionenoberfläche zu öffnen.
+2. Klicken Sie auf "<img src="./assets/312.webp" alt="312"  width="3%" />Share Device", um die Freigabeoberfläche zu öffnen
+
+<img src="./assets/311.webp" alt="311" width="50%" />
+
+3. Fügen Sie freigegebene Konten hinzu, es gibt zwei Methoden:
+
+   ***Methode 1：***Klicken Sie auf Add, wählen Sie Region (Land oder Region, in der sich das Zielkonto befindet), füllen Sie Account (E-Mail-Adresse des Zielkontos) aus und klicken Sie dann auf Done, um die Hinzufügung abzuschließen. Zu diesem Zeitpunkt können Ihre Familienmitglieder auf das Gerät zugreifen.
+
+   Hinweis: Das aktuelle Konto und das Ziel-Freigabekonto müssen sich im selben Land oder derselben Region befinden, sonst kann ein Fehler auftreten und das Zielkonto kann nicht hinzugefügt werden.
+
+   <img src="./assets/313.webp" alt="313" width="50%" />
+
+   ***Methode 2：***Geben Sie ein, mit wie vielen Konten Sie teilen möchten (maximal 6 Personen), klicken Sie dann auf Copy, um den Freigabelink zu kopieren, und teilen Sie ihn über Ihr Social-Media-Konto mit Ihren Familienmitgliedern. Ihre Familienmitglieder klicken auf den Link, springen und akzeptieren die Einladung, dann können sie auf das Gerät zugreifen.
+
+   <img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" />
+
+**Freigabe entfernen：**
+
+Angesichts des Nutzungsszenarios der Medikamentenbox müssen Sie zum Entfernen der Freigabe den Entfernungsvorgang sowohl auf dem Hauptfreigabekonto als auch auf dem freigegebenen Konto durchführen, um die Entfernung der Freigabefunktion abzuschließen.
+
+1. Auf dem Hauptfreigabekonto wischen Sie auf das Konto, von dem Sie die Freigabe entfernen möchten, nach links und klicken Sie auf "Delete", es erscheint ein Bestätigungsfenster, klicken Sie auf "Delete", um die Entfernung abzuschließen.
+
+   <img src="./assets/316.webp" alt="316" width="50%" />
+
+2. Auf dem freigegebenen Konto klicken Sie auf das Optionen-<img src="./assets/3.webp" alt="3" width="3%" />-Symbol in der oberen rechten Ecke des Bildschirms, um die Optionenoberfläche zu öffnen, klicken Sie auf "Remove Sharing", um die Entfernung abzuschließen.
+
+<img src="./assets/317.webp" alt="317" width="25%"/>
 
 ---
 
