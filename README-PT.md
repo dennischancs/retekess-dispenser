@@ -8,7 +8,7 @@
 
 Baixe e instale o aplicativo iDispenser no seu smartphone ou no do seu cuidador através dos seguintes métodos:
 
-<img src="./assets/app_qr_code@4x.webp" alt="app_qr_code" width="67%" />
+<p align="center"><img src="./assets/app_qr_code@4x.webp" alt="app_qr_code" width="67%" /></p>
 
 - Usuários iOS: Visite a App Store
 - Usuários Android: Visite o Google Play ou baixe diretamente
@@ -21,7 +21,7 @@ Se você estiver usando o iDispenser pela primeira vez, crie uma conta:
 
 1. Abra o aplicativo iDispenser e clique em "Registrar"
 
-   <img src="./assets/301.webp" alt="301" width="35%" />
+   <p align="center"><img src="./assets/301.webp" alt="301" width="35%" /></p>
 
 2. Selecione seu país ou região
 
@@ -35,7 +35,7 @@ Se você estiver usando o iDispenser pela primeira vez, crie uma conta:
 
 7. Após fazer login, siga as instruções do aplicativo para aceitar e conceder permissões de localização e Bluetooth do dispositivo ao aplicativo
 
-   <img src="./assets/302.webp" alt="302" width="35%" />
+   <p align="center"><img src="./assets/302.webp" alt="302" width="35%" /></p>
 
 ---
 
@@ -43,7 +43,7 @@ Se você estiver usando o iDispenser pela primeira vez, crie uma conta:
 
 **O dispositivo entra no modo AP**
 
-<img src="./assets/1.svg" alt="1"  width="40%"  />
+<p align="center"><img src="./assets/1.svg" alt="1"  width="40%"  /></p>
 
 1. No modo de relógio principal do dispositivo, pressione e segure o botão "+" do dispositivo por 3 segundos para entrar no modo AP Wi-Fi;
 2. Neste momento, o alto-falante irá anunciar "AP Mode" em voz alta e o LED começará a piscar;
@@ -63,11 +63,11 @@ Se você estiver usando o iDispenser pela primeira vez, crie uma conta:
 3. Insira o nome da rede Wi-Fi e a senha, em seguida clique em "Next"
 4. Aguarde o dispositivo móvel e o dispensador de pílulas se conectarem
 
-<img src="./assets/305.webp" alt="305" width="100%" />
+<p align="center"><img src="./assets/305.webp" alt="305" width="100%" /></p>
 
 5. Após a conexão Wi-Fi ser bem-sucedida, o aplicativo mostrará "added successfully", clique em "Done" para retornar. Neste momento, o display do dispositivo mostrará o símbolo "<img src="./assets/2.svg" alt="2"  width="3%" />" .
 
-<img src="./assets/306.webp" alt="306" width="45%" />
+<p align="center"><img src="./assets/306.webp" alt="306" width="45%" /></p>
 
 ### 4.2 Solução de problemas de conexão
 
@@ -85,11 +85,11 @@ Se a conexão Wi-Fi falhar, verifique os seguintes aspectos:
 
 Na página inicial, clique no dispositivo "TH017 WIFI Pill Dispenser" para acessar a página de configuração do dispositivo.
 
-<img src="./assets/309.webp" alt="309" width="35%"  />
+<p align="center"><img src="./assets/309.webp" alt="309" width="35%"  /></p>
 
 ### 5.1 Configuração do agendamento de medicação
 
-<img src="./assets/307.webp" alt="307" width="100%" />
+<p align="center"><img src="./assets/307.webp" alt="307" width="100%" /></p>
 
 Quando operar o dispensador de pílulas através do aplicativo pela primeira vez, você precisa configurar o agendamento de medicação:
 
@@ -109,7 +109,7 @@ Quando operar o dispensador de pílulas através do aplicativo pela primeira vez
 
 ### 5.2 Visão geral do painel
 
-<img src="./assets/308.webp" alt="308" width="35%" />
+<p align="center"><img src="./assets/308.webp" alt="308" width="35%" /></p>
 
 **Próxima dose**
 
@@ -151,7 +151,7 @@ Quando operar o dispensador de pílulas através do aplicativo pela primeira vez
 
 5. O dispensador de pílulas possui um sensor integrado que pode detectar quando as pílulas são removidas da caixa de medicação
 
-   <img src="./assets/29@4x.webp" alt="29@4x" width="50%" />
+   <p align="center"><img src="./assets/29@4x.webp" alt="29@4x" width="50%" /></p>
 
 **Tomar medicação com antecedência**
 
@@ -163,7 +163,7 @@ Para tomar a medicação antes do horário definido:
 
 **Aviso:** Se você tentar tomar a medicação um dia com antecedência, o botão "Take in advance" não funcionará.
 
-<img src="./assets/30@4x.webp" alt="30@4x" width="50%" />
+<p align="center"><img src="./assets/30@4x.webp" alt="30@4x" width="50%" /></p>
 
 ### 5.4 Visão geral das atividades
 
@@ -177,7 +177,7 @@ A duração do alarme é definida como 30 minutos por padrão, mas pode ser ajus
 
 **Aviso:** Os registros começarão a ser excluídos após 14 dias.
 
-<img src="./assets/210@4x.webp" alt="210@4x" width="25%" />
+<p align="center"><img src="./assets/210@4x.webp" alt="210@4x" width="25%" /></p>
 
 ### 5.5 Visão geral dos alarmes
 
@@ -191,7 +191,7 @@ A interface de alarmes permite que você edite alarmes existentes ou configure n
 2. Ajuste a hora ou edite as notas desse alarme
 3. Clique em "Save" para confirmar as alterações
 
-<img src="./assets/211@4x.webp" alt="211@4x" width="25%" />
+<p align="center"><img src="./assets/211@4x.webp" alt="211@4x" width="25%" /></p>
 
 ### 5.6 Visão geral das configurações
 
@@ -207,13 +207,13 @@ A interface de configurações permite que você altere as seguintes opções:
 - **Redefinir alarme:** Redefinir todos os alarmes
 - **Redefinir tudo:** Redefinir tudo e começar de novo
 
-<img src="./assets/212@4x.webp" alt="212@4x" width="25%" />
+<p align="center"><img src="./assets/212@4x.webp" alt="212@4x" width="25%" /></p>
 
 ### 5.7 Visão geral das opções
 
 1. Clique no ícone de opções <img src="./assets/3.webp" alt="3" width="3%" /> no canto superior direito da tela para acessar a interface de opções.
 
-<img src="./assets/310.webp" alt="310" width="25%" />
+<p align="center"><img src="./assets/310.webp" alt="310" width="25%" /></p>
 
 2. Nesta interface, você pode:
 
@@ -230,7 +230,7 @@ A interface de configurações permite que você altere as seguintes opções:
 1. Clique no ícone de opções <img src="./assets/3.webp" alt="3" width="3%" /> no canto superior direito da tela para acessar a interface de opções.
 2. Clique em "<img src="./assets/312.webp" alt="312"  width="3%" />Share Device" para acessar a interface de compartilhamento
 
-<img src="./assets/311.webp" alt="311" width="50%" />
+<p align="center"><img src="./assets/311.webp" alt="311" width="50%" /></p>
 
 3. Adicione contas compartilhadas, existem dois métodos:
 
@@ -238,11 +238,11 @@ A interface de configurações permite que você altere as seguintes opções:
 
    Nota: A conta atual e a conta compartilhada de destino precisam estar no mesmo país ou região, caso contrário, um erro pode ocorrer e a conta de destino não pode ser adicionada.
 
-   <img src="./assets/313.webp" alt="313" width="50%" />
+   <p align="center"><img src="./assets/313.webp" alt="313" width="50%" /></p>
 
    ***Método 2：***Preencha quantas contas você deseja compartilhar (máximo 6 pessoas), em seguida clique em Copy para copiar o link de compartilhamento e compartilhá-lo com seus familiares por meio da sua conta social. Seus familiares clicam no link, pulam e aceitam o convite, depois podem acessar e visitar o dispositivo.
 
-   <img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" />
+   <p align="center"><img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" /></p>
 
 **Remover compartilhamento：**
 
@@ -250,11 +250,11 @@ Considerando o cenário de uso da caixa de pílulas, se você precisar remover o
 
 1. Na conta principal de compartilhamento, arraste para a esquerda na conta que você deseja remover o compartilhamento e clique em "Delete", uma janela pop-up de confirmação aparecerá, clique em "Delete" para concluir a remoção.
 
-   <img src="./assets/316.webp" alt="316" width="50%" />
+   <p align="center"><img src="./assets/316.webp" alt="316" width="50%" /></p>
 
 2. Na conta compartilhada, clique no ícone de opções <img src="./assets/3.webp" alt="3" width="3%" /> no canto superior direito da tela para acessar a interface de opções, clique em "Remove Sharing" para concluir a remoção.
 
-<img src="./assets/317.webp" alt="317" width="25%"/>
+<p align="center"><img src="./assets/317.webp" alt="317" width="25%"/></p>
 
 ---
 
@@ -264,7 +264,7 @@ Considerando o cenário de uso da caixa de pílulas, se você precisar remover o
 
 Na página inicial, selecione: Me → Settings → APP notification
 
-<img src="./assets/303.webp" alt="303" width="75%" />
+<p align="center"><img src="./assets/303.webp" alt="303" width="75%" /></p>
 
 ### 6.2 Remover dispositivo
 
@@ -276,7 +276,7 @@ Na página inicial, selecione: Me → Settings → APP notification
 
 4. Clique em "Done" para retornar à página inicial.
 
-   <img src="./assets/304.webp" alt="304" width="100%" />
+   <p align="center"><img src="./assets/304.webp" alt="304" width="100%" /></p>
 
 ---
 

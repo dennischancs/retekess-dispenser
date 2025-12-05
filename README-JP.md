@@ -8,7 +8,7 @@
 
 以下の方法で、あなたまたは介護者のスマートフォンにiDispenserアプリをダウンロードしてインストールしてください：
 
-<img src="./assets/app_qr_code@4x.webp" alt="app_qr_code" width="67%" />
+<p align="center"><img src="./assets/app_qr_code@4x.webp" alt="app_qr_code" width="67%" /></p>
 
 - iOSユーザー：App Storeを訪問
 - Androidユーザー：Google Playを訪問または直接ダウンロード
@@ -21,7 +21,7 @@
 
 1. iDispenserアプリを開き、「登録」をクリックします
 
-   <img src="./assets/301.webp" alt="301" width="35%" />
+   <p align="center"><img src="./assets/301.webp" alt="301" width="35%" /></p>
 
 2. あなたの国または地域を選択します
 
@@ -35,7 +35,7 @@
 
 7. ログイン後、アプリの指示に従って、アプリにデバイスの位置情報とBluetoothの権限を許可します
 
-   <img src="./assets/302.webp" alt="302" width="35%" />
+   <p align="center"><img src="./assets/302.webp" alt="302" width="35%" /></p>
 
 ---
 
@@ -43,7 +43,7 @@
 
 **デバイスがAPモードに入る**
 
-<img src="./assets/1.svg" alt="1"  width="40%"  />
+<p align="center"><img src="./assets/1.svg" alt="1"  width="40%"  /></p>
 
 1. デバイスのホームクロックモードで、デバイスの「+」ボタンを3秒間長押ししてWi-Fi APモードに入ります；
 2. この時、スピーカーから「AP Mode」と音声で通知され、LEDライトが点滅し始めます；
@@ -63,11 +63,11 @@
 3. Wi-Fiネットワーク名とパスワードを入力し、「Next」をクリックします
 4. モバイルデバイスと錠剤分配器が接続するまで待ちます
 
-<img src="./assets/305.webp" alt="305" width="100%" />
+<p align="center"><img src="./assets/305.webp" alt="305" width="100%" /></p>
 
 5. Wi-Fi接続が成功すると、アプリに「added successfully」と表示され、「Done」をクリックして戻ります。この時、デバイスのディスプレイに「<img src="./assets/2.svg" alt="2"  width="3%" />」の記号が表示されます。
 
-<img src="./assets/306.webp" alt="306" width="45%" />
+<p align="center"><img src="./assets/306.webp" alt="306" width="45%" /></p>
 
 ### 4.2 接続失敗のトラブルシューティング
 
@@ -85,11 +85,11 @@ Wi-Fi接続が失敗した場合は、以下の点を確認してください：
 
 ホームページで、「TH017 WIFI Pill Dispenser」デバイスをクリックして、デバイス設定ページに入ります。
 
-<img src="./assets/309.webp" alt="309" width="35%"  />
+<p align="center"><img src="./assets/309.webp" alt="309" width="35%"  /></p>
 
 ### 5.1 投薬計画の設定
 
-<img src="./assets/307.webp" alt="307" width="100%" />
+<p align="center"><img src="./assets/307.webp" alt="307" width="100%" /></p>
 
 初めてアプリで錠剤分配器を操作する場合は、投薬計画を設定する必要があります：
 
@@ -109,7 +109,7 @@ Wi-Fi接続が失敗した場合は、以下の点を確認してください：
 
 ### 5.2 ダッシュボードの概要
 
-<img src="./assets/308.webp" alt="308" width="35%" />
+<p align="center"><img src="./assets/308.webp" alt="308" width="35%" /></p>
 
 **次の投薬**
 
@@ -151,7 +151,7 @@ Wi-Fi接続が失敗した場合は、以下の点を確認してください：
 
 5. 錠剤分配器には、薬箱から薬が取り出されたことを感知できる内蔵センサーがあります
 
-   <img src="./assets/29@4x.webp" alt="29@4x" width="50%" />
+   <p align="center"><img src="./assets/29@4x.webp" alt="29@4x" width="50%" /></p>
 
 **事前投薬**
 
@@ -163,7 +163,7 @@ Wi-Fi接続が失敗した場合は、以下の点を確認してください：
 
 **注意：** 1日前に投薬しようとすると、「Take in advance」ボタンは機能しません。
 
-<img src="./assets/30@4x.webp" alt="30@4x" width="50%" />
+<p align="center"><img src="./assets/30@4x.webp" alt="30@4x" width="50%" /></p>
 
 ### 5.4 アクティビティの概要
 
@@ -177,7 +177,7 @@ Wi-Fi接続が失敗した場合は、以下の点を確認してください：
 
 **注意：** 記録は14日後に削除され始めます。
 
-<img src="./assets/210@4x.webp" alt="210@4x" width="25%" />
+<p align="center"><img src="./assets/210@4x.webp" alt="210@4x" width="25%" /></p>
 
 ### 5.5 アラームの概要
 
@@ -191,7 +191,7 @@ Wi-Fi接続が失敗した場合は、以下の点を確認してください：
 2. 時間を調整するか、そのアラームのメモを編集します
 3. 「Save」をクリックして変更を確認します
 
-<img src="./assets/211@4x.webp" alt="211@4x" width="25%" />
+<p align="center"><img src="./assets/211@4x.webp" alt="211@4x" width="25%" /></p>
 
 ### 5.6 設定の概要
 
@@ -207,13 +207,13 @@ Wi-Fi接続が失敗した場合は、以下の点を確認してください：
 - **アラームのリセット：** すべてのアラームをリセットします
 - **すべてリセット：** すべてをリセットして、最初から始めます
 
-<img src="./assets/212@4x.webp" alt="212@4x" width="25%" />
+<p align="center"><img src="./assets/212@4x.webp" alt="212@4x" width="25%" /></p>
 
 ### 5.7 オプションの概要
 
 1. 画面右上隅のオプション<img src="./assets/3.webp" alt="3" width="3%" />アイコンをクリックして、オプションインターフェースに入ります。
 
-<img src="./assets/310.webp" alt="310" width="25%" />
+<p align="center"><img src="./assets/310.webp" alt="310" width="25%" /></p>
 
 2. このインターフェースでは：
 
@@ -230,7 +230,7 @@ Wi-Fi接続が失敗した場合は、以下の点を確認してください：
 1. 画面右上隅のオプション<img src="./assets/3.webp" alt="3" width="3%" />アイコンをクリックして、オプションインターフェースに入ります。
 2. 「<img src="./assets/312.webp" alt="312"  width="3%" />Share Device」をクリックして共有インターフェースに入ります
 
-<img src="./assets/311.webp" alt="311" width="50%" />
+<p align="center"><img src="./assets/311.webp" alt="311" width="50%" /></p>
 
 3. 共有アカウントを追加するには、2つの方法があります：
 
@@ -238,11 +238,11 @@ Wi-Fi接続が失敗した場合は、以下の点を確認してください：
 
    注：現在のアカウントとターゲット共有アカウントは同じ国または地域にある必要があります。そうでない場合、エラーが発生し、ターゲットアカウントを追加することができません。
 
-   <img src="./assets/313.webp" alt="313" width="50%" />
+   <p align="center"><img src="./assets/313.webp" alt="313" width="50%" /></p>
 
    ***方法2：***共有したいアカウント数（最大6人）を入力し、Copyをクリックして共有リンクをコピーし、ソーシャルアカウントを通じて家族と共有します。家族はリンクをクリックし、ジャンプして招待を受け入れると、デバイスにアクセスして訪問することができます。
 
-   <img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" />
+   <p align="center"><img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" /></p>
 
 **共有の削除：**
 
@@ -250,11 +250,11 @@ Wi-Fi接続が失敗した場合は、以下の点を確認してください：
 
 1. メイン共有アカウントで、共有を削除したいアカウントを左にスワイプし、「Delete」をクリックすると、確認ポップアップウィンドウが表示されます。「Delete」をクリックして削除を完了します。
 
-   <img src="./assets/316.webp" alt="316" width="50%" />
+   <p align="center"><img src="./assets/316.webp" alt="316" width="50%" /></p>
 
 2. 共有アカウントで、画面右上隅のオプション<img src="./assets/3.webp" alt="3" width="3%" />アイコンをクリックしてオプションインターフェースに入り、「Remove Sharing」をクリックして削除を完了します。
 
-<img src="./assets/317.webp" alt="317" width="25%"/>
+<p align="center"><img src="./assets/317.webp" alt="317" width="25%"/></p>
 
 ---
 
@@ -264,7 +264,7 @@ Wi-Fi接続が失敗した場合は、以下の点を確認してください：
 
 ホームページで選択：Me → Settings → APP notification
 
-<img src="./assets/303.webp" alt="303" width="75%" />
+<p align="center"><img src="./assets/303.webp" alt="303" width="75%" /></p>
 
 ### 6.2 デバイスの削除
 
@@ -276,7 +276,7 @@ Wi-Fi接続が失敗した場合は、以下の点を確認してください：
 
 4. 「Done」をクリックしてホームページに戻ります。
 
-   <img src="./assets/304.webp" alt="304" width="100%" />
+   <p align="center"><img src="./assets/304.webp" alt="304" width="100%" /></p>
 
 ---
 

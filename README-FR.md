@@ -8,7 +8,7 @@
 
 Téléchargez et installez l'application iDispenser sur votre smartphone ou celui de votre aidant via les méthodes suivantes :
 
-<img src="./assets/app_qr_code@4x.webp" alt="app_qr_code" width="67%" />
+<p align="center"><img src="./assets/app_qr_code@4x.webp" alt="app_qr_code" width="67%" /></p>
 
 - Utilisateurs iOS : Visitez l'App Store
 - Utilisateurs Android : Visitez Google Play ou téléchargez directement
@@ -21,7 +21,7 @@ Si vous utilisez iDispenser pour la première fois, créez un compte :
 
 1. Ouvrez l'application iDispenser et cliquez sur "S'inscrire"
 
-   <img src="./assets/301.webp" alt="301" width="35%" />
+   <p align="center"><img src="./assets/301.webp" alt="301" width="35%" /></p>
 
 2. Sélectionnez votre pays ou région
 
@@ -35,7 +35,7 @@ Si vous utilisez iDispenser pour la première fois, créez un compte :
 
 7. Après la connexion, suivez les instructions de l'application pour accepter et accorder à l'application les autorisations de localisation et de Bluetooth de votre appareil
 
-   <img src="./assets/302.webp" alt="302" width="35%" />
+   <p align="center"><img src="./assets/302.webp" alt="302" width="35%" /></p>
 
 ---
 
@@ -43,7 +43,7 @@ Si vous utilisez iDispenser pour la première fois, créez un compte :
 
 **L'appareil entre en mode AP**
 
-<img src="./assets/1.svg" alt="1"  width="40%"  />
+<p align="center"><img src="./assets/1.svg" alt="1"  width="40%"  /></p>
 
 1. En mode horloge principal de l'appareil, maintenez le bouton "+" de l'appareil enfoncé pendant 3 secondes pour accéder au mode AP Wi-Fi ;
 2. À ce moment, le haut-parleur diffusera la voix "AP Mode" et la lumière LED commencera à clignoter ;
@@ -63,11 +63,11 @@ Si vous utilisez iDispenser pour la première fois, créez un compte :
 3. Entrez le nom du réseau Wi-Fi et le mot de passe, puis cliquez sur "Suivant"
 4. Attendez que l'appareil mobile et le distributeur de pilules se connectent
 
-<img src="./assets/305.webp" alt="305" width="100%" />
+<p align="center"><img src="./assets/305.webp" alt="305" width="100%" /></p>
 
 5. Après une connexion Wi-Fi réussie, l'application affiche "added successfully", cliquez sur "Done" pour revenir. À ce moment, l'écran de l'appareil affichera le symbole "<img src="./assets/2.svg" alt="2"  width="3%" />" .
 
-<img src="./assets/306.webp" alt="306" width="45%" />
+<p align="center"><img src="./assets/306.webp" alt="306" width="45%" /></p>
 
 ### 4.2 Dépannage des échecs de connexion
 
@@ -85,11 +85,11 @@ Si la connexion Wi-Fi échoue, vérifiez les points suivants :
 
 Sur la page d'accueil, cliquez sur l'appareil "TH017 WIFI Pill Dispenser" pour accéder à la page de configuration de l'appareil.
 
-<img src="./assets/309.webp" alt="309" width="35%"  />
+<p align="center"><img src="./assets/309.webp" alt="309" width="35%"  /></p>
 
 ### 5.1 Configuration du calendrier de médication
 
-<img src="./assets/307.webp" alt="307" width="100%" />
+<p align="center"><img src="./assets/307.webp" alt="307" width="100%" /></p>
 
 Lorsque vous utilisez le distributeur de pilules via l'application pour la première fois, vous devez configurer le calendrier de médication :
 
@@ -109,7 +109,7 @@ Lorsque vous utilisez le distributeur de pilules via l'application pour la premi
 
 ### 5.2 Aperçu du tableau de bord
 
-<img src="./assets/308.webp" alt="308" width="35%" />
+<p align="center"><img src="./assets/308.webp" alt="308" width="35%" /></p>
 
 **Prochaine dose**
 
@@ -151,7 +151,7 @@ Lorsque vous utilisez le distributeur de pilules via l'application pour la premi
 
 5. Le distributeur de pilules est équipé d'un capteur intégré qui détecte quand les pilules sont retirées de la boîte à médicaments
 
-   <img src="./assets/29@4x.webp" alt="29@4x" width="50%" />
+   <p align="center"><img src="./assets/29@4x.webp" alt="29@4x" width="50%" /></p>
 
 **Prendre la médication à l'avance**
 
@@ -163,7 +163,7 @@ Pour prendre la médication avant l'heure prévue :
 
 **Remarque :** Si vous essayez de prendre la médication un jour à l'avance, le bouton "Take in advance" ne fonctionnera pas.
 
-<img src="./assets/30@4x.webp" alt="30@4x" width="50%" />
+<p align="center"><img src="./assets/30@4x.webp" alt="30@4x" width="50%" /></p>
 
 ### 5.4 Aperçu des activités
 
@@ -177,7 +177,7 @@ La durée de l'alarme est réglée sur 30 minutes par défaut, mais peut être a
 
 **Remarque :** Les enregistrements commenceront à être supprimés après 14 jours.
 
-<img src="./assets/210@4x.webp" alt="210@4x" width="25%" />
+<p align="center"><img src="./assets/210@4x.webp" alt="210@4x" width="25%" /></p>
 
 ### 5.5 Aperçu des alarmes
 
@@ -191,7 +191,7 @@ L'interface des alarmes vous permet d'éditer les alarmes existantes ou de confi
 2. Ajustez l'heure ou modifiez les notes de cette alarme
 3. Cliquez sur "Save" pour confirmer les modifications
 
-<img src="./assets/211@4x.webp" alt="211@4x" width="25%" />
+<p align="center"><img src="./assets/211@4x.webp" alt="211@4x" width="25%" /></p>
 
 ### 5.6 Aperçu des paramètres
 
@@ -207,13 +207,13 @@ L'interface des paramètres vous permet de modifier les options suivantes :
 - **Réinitialiser l'alarme :** Réinitialiser toutes les alarmes
 - **Réinitialiser tout :** Réinitialiser tout et recommencer
 
-<img src="./assets/212@4x.webp" alt="212@4x" width="25%" />
+<p align="center"><img src="./assets/212@4x.webp" alt="212@4x" width="25%" /></p>
 
 ### 5.7 Aperçu des options
 
 1. Cliquez sur l'icône d'options <img src="./assets/3.webp" alt="3" width="3%" /> dans le coin supérieur droit de l'écran pour accéder à l'interface des options.
 
-<img src="./assets/310.webp" alt="310" width="25%" />
+<p align="center"><img src="./assets/310.webp" alt="310" width="25%" /></p>
 
 2. Dans cette interface, vous pouvez :
 
@@ -230,7 +230,7 @@ L'interface des paramètres vous permet de modifier les options suivantes :
 1. Cliquez sur l'icône d'options <img src="./assets/3.webp" alt="3" width="3%" /> dans le coin supérieur droit de l'écran pour accéder à l'interface des options.
 2. Cliquez sur "<img src="./assets/312.webp" alt="312"  width="3%" />Share Device" pour accéder à l'interface de partage
 
-<img src="./assets/311.webp" alt="311" width="50%" />
+<p align="center"><img src="./assets/311.webp" alt="311" width="50%" /></p>
 
 3. Ajoutez des comptes partagés, il y a deux méthodes :
 
@@ -238,11 +238,11 @@ L'interface des paramètres vous permet de modifier les options suivantes :
 
    Remarque : Le compte actuel et le compte partagé cible doivent être dans le même pays ou la même région, sinon une erreur peut survenir et le compte cible ne peut pas être ajouté.
 
-   <img src="./assets/313.webp" alt="313" width="50%" />
+   <p align="center"><img src="./assets/313.webp" alt="313" width="50%" /></p>
 
    ***Méthode 2：***Remplissez le nombre de comptes avec lesquels vous souhaitez partager (maximum 6 personnes), puis cliquez sur Copy pour copier le lien de partage et partagez-le avec vos proches via votre compte social. Vos proches cliquent sur le lien, sautent et acceptent l'invitation, puis ils peuvent accéder et visiter l'appareil.
 
-   <img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" />
+   <p align="center"><img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" /></p>
 
 **Supprimer le partage：**
 
@@ -250,11 +250,11 @@ Compte tenu du scénario d'utilisation de la boîte à médicaments, si vous ave
 
 1. Sur le compte principal de partage, faites glisser vers la gauche le compte avec lequel vous souhaitez supprimer le partage, et cliquez sur "Delete", une fenêtre contextuelle de confirmation apparaîtra, cliquez sur "Delete" pour terminer la suppression.
 
-   <img src="./assets/316.webp" alt="316" width="50%" />
+   <p align="center"><img src="./assets/316.webp" alt="316" width="50%" /></p>
 
 2. Sur le compte partagé, cliquez sur l'icône d'options <img src="./assets/3.webp" alt="3" width="3%" /> dans le coin supérieur droit de l'écran pour accéder à l'interface des options, cliquez sur "Remove Sharing" pour terminer la suppression.
 
-<img src="./assets/317.webp" alt="317" width="25%"/>
+<p align="center"><img src="./assets/317.webp" alt="317" width="25%"/></p>
 
 ---
 
@@ -264,7 +264,7 @@ Compte tenu du scénario d'utilisation de la boîte à médicaments, si vous ave
 
 Sur la page d'accueil, sélectionnez : Me → Settings → APP notification
 
-<img src="./assets/303.webp" alt="303" width="75%" />
+<p align="center"><img src="./assets/303.webp" alt="303" width="75%" /></p>
 
 ### 6.2 Supprimer un appareil
 
@@ -276,7 +276,7 @@ Sur la page d'accueil, sélectionnez : Me → Settings → APP notification
 
 4. Cliquez sur "Done" pour retourner à la page d'accueil.
 
-   <img src="./assets/304.webp" alt="304" width="100%" />
+   <p align="center"><img src="./assets/304.webp" alt="304" width="100%" /></p>
 
 ---
 

@@ -8,7 +8,7 @@
 
 Descargue e instale la APP iDispenser en su smartphone o en el smartphone de su cuidador a través de los siguientes métodos:
 
-<img src="./assets/app_qr_code@4x.webp" alt="app_qr_code" width="67%" />
+<p align="center"><img src="./assets/app_qr_code@4x.webp" alt="app_qr_code" width="67%" /></p>
 
 - Usuarios de iOS: Visite la App Store
 - Usuarios de Android: Visite Google Play o descargue directamente
@@ -21,7 +21,7 @@ Si es la primera vez que usa iDispenser, cree una cuenta:
 
 1. Abra la APP iDispenser y haga clic en "Registrarse"
 
-   <img src="./assets/301.webp" alt="301" width="35%" />
+   <p align="center"><img src="./assets/301.webp" alt="301" width="35%" /></p>
 
 2. Seleccione su país o región
 
@@ -35,7 +35,7 @@ Si es la primera vez que usa iDispenser, cree una cuenta:
 
 7. Después de iniciar sesión, siga las instrucciones de la APP para aceptar y otorgar a la APP permisos de ubicación y Bluetooth para su dispositivo
 
-   <img src="./assets/302.webp" alt="302" width="35%" />
+   <p align="center"><img src="./assets/302.webp" alt="302" width="35%" /></p>
 
 ---
 
@@ -43,7 +43,7 @@ Si es la primera vez que usa iDispenser, cree una cuenta:
 
 **El dispositivo entra en modo AP**
 
-<img src="./assets/1.svg" alt="1"  width="40%"  />
+<p align="center"><img src="./assets/1.svg" alt="1"  width="40%"  /></p>
 
 1. En el modo de reloj principal del dispositivo, mantenga presionado el botón "+" del dispositivo durante 3 segundos para ingresar al modo AP de Wi-Fi;
 2. En este momento, el altavoz transmitirá la voz "AP Mode" y la luz LED comenzará a parpadear;
@@ -63,11 +63,11 @@ Si es la primera vez que usa iDispenser, cree una cuenta:
 3. Ingrese el nombre de la red Wi-Fi y la contraseña, luego haga clic en "Siguiente"
 4. Espere a que el dispositivo móvil y el dispensador de pastillas se conecten
 
-<img src="./assets/305.webp" alt="305" width="100%" />
+<p align="center"><img src="./assets/305.webp" alt="305" width="100%" /></p>
 
 5. Después de que la conexión Wi-Fi se realice correctamente, la APP muestra "added successfully", haga clic en "Done" para regresar. En este momento, la pantalla del dispositivo mostrará el símbolo "<img src="./assets/2.svg" alt="2"  width="3%" />" .
 
-<img src="./assets/306.webp" alt="306" width="45%" />
+<p align="center"><img src="./assets/306.webp" alt="306" width="45%" /></p>
 
 ### 4.2 Solución de problemas de conexión
 
@@ -85,11 +85,11 @@ Si la conexión Wi-Fi falla, verifique los siguientes aspectos:
 
 En la página principal, haga clic en el dispositivo "TH017 WIFI Pill Dispenser" para acceder a la página de configuración del dispositivo.
 
-<img src="./assets/309.webp" alt="309" width="35%"  />
+<p align="center"><img src="./assets/309.webp" alt="309" width="35%"  /></p>
 
 ### 5.1 Configuración del horario de medicación
 
-<img src="./assets/307.webp" alt="307" width="100%" />
+<p align="center"><img src="./assets/307.webp" alt="307" width="100%" /></p>
 
 Al operar el dispensador de pastillas a través de la APP por primera vez, debe configurar el horario de medicación:
 
@@ -109,7 +109,7 @@ Al operar el dispensador de pastillas a través de la APP por primera vez, debe 
 
 ### 5.2 Descripción general del panel de control
 
-<img src="./assets/308.webp" alt="308" width="35%" />
+<p align="center"><img src="./assets/308.webp" alt="308" width="35%" /></p>
 
 **Próxima dosis**
 
@@ -151,7 +151,7 @@ Al operar el dispensador de pastillas a través de la APP por primera vez, debe 
 
 5. El dispensador de pastillas tiene un sensor integrado que puede detectar cuándo se sacan las pastillas de la caja de medicación
 
-   <img src="./assets/29@4x.webp" alt="29@4x" width="50%" />
+   <p align="center"><img src="./assets/29@4x.webp" alt="29@4x" width="50%" /></p>
 
 **Tomar medicación con anticipación**
 
@@ -163,7 +163,7 @@ Para tomar la medicación antes de la hora programada:
 
 **Nota:** Si intenta tomar la medicación un día antes, el botón "Take in advance" no funcionará.
 
-<img src="./assets/30@4x.webp" alt="30@4x" width="50%" />
+<p align="center"><img src="./assets/30@4x.webp" alt="30@4x" width="50%" /></p>
 
 ### 5.4 Descripción general de la actividad
 
@@ -177,7 +177,7 @@ La duración de la alarma está establecida en 30 minutos de forma predeterminad
 
 **Nota:** Los registros comenzarán a eliminarse después de 14 días.
 
-<img src="./assets/210@4x.webp" alt="210@4x" width="25%" />
+<p align="center"><img src="./assets/210@4x.webp" alt="210@4x" width="25%" /></p>
 
 ### 5.5 Descripción general de las alarmas
 
@@ -191,7 +191,7 @@ La interfaz de alarma le permite editar alarmas existentes o configurar nuevos h
 2. Ajuste la hora o edite las notas de esa alarma
 3. Haga clic en "Save" para confirmar los cambios
 
-<img src="./assets/211@4x.webp" alt="211@4x" width="25%" />
+<p align="center"><img src="./assets/211@4x.webp" alt="211@4x" width="25%" /></p>
 
 ### 5.6 Descripción general de las configuraciones
 
@@ -207,13 +207,13 @@ La interfaz de configuración le permite cambiar las siguientes opciones:
 - **Restablecer alarma:** Restablecer todas las alarmas
 - **Restablecer todo:** Restablecer todo y comenzar de nuevo
 
-<img src="./assets/212@4x.webp" alt="212@4x" width="25%" />
+<p align="center"><img src="./assets/212@4x.webp" alt="212@4x" width="25%" /></p>
 
 ### 5.7 Descripción general de las opciones
 
 1. Haga clic en el icono de opciones <img src="./assets/3.webp" alt="3" width="3%" /> en la esquina superior derecha de la pantalla para acceder a la interfaz de opciones.
 
-<img src="./assets/310.webp" alt="310" width="25%" />
+<p align="center"><img src="./assets/310.webp" alt="310" width="25%" /></p>
 
 2. En esta interfaz puede:
 
@@ -230,7 +230,7 @@ La interfaz de configuración le permite cambiar las siguientes opciones:
 1. Haga clic en el icono de opciones <img src="./assets/3.webp" alt="3" width="3%" /> en la esquina superior derecha de la pantalla para acceder a la interfaz de opciones.
 2. Haga clic en "<img src="./assets/312.webp" alt="312"  width="3%" />Share Device" para acceder a la interfaz de compartir
 
-<img src="./assets/311.webp" alt="311" width="50%" />
+<p align="center"><img src="./assets/311.webp" alt="311" width="50%" /></p>
 
 3. Agregar cuentas compartidas, hay dos métodos:
 
@@ -238,11 +238,11 @@ La interfaz de configuración le permite cambiar las siguientes opciones:
 
    Nota: La cuenta actual y la cuenta compartida objetivo deben estar en el mismo país o región, de lo contrario, puede ocurrir un error y no se puede agregar la cuenta objetivo.
 
-   <img src="./assets/313.webp" alt="313" width="50%" />
+   <p align="center"><img src="./assets/313.webp" alt="313" width="50%" /></p>
 
    ***Método 2：***Complete cuántas cuentas desea compartir (máximo 6 personas), luego haga clic en Copy para copiar el enlace de compartir y compártalo con sus familiares a través de su cuenta social. Sus familiares hacen clic en el enlace, saltan y aceptan la invitación, luego pueden acceder y visitar el dispositivo.
 
-   <img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" />
+   <p align="center"><img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" /></p>
 
 **Eliminar compartir：**
 
@@ -250,11 +250,11 @@ Teniendo en cuenta el escenario de uso de la caja de medicamentos, si necesita e
 
 1. En la cuenta principal de compartir, deslice hacia la izquierda en la cuenta de la que desea eliminar el compartir y haga clic en "Delete", aparecerá un cuadro emergente de confirmación, haga clic en "Delete" para completar la eliminación.
 
-   <img src="./assets/316.webp" alt="316" width="50%" />
+   <p align="center"><img src="./assets/316.webp" alt="316" width="50%" /></p>
 
 2. En la cuenta compartida, haga clic en el icono de opciones <img src="./assets/3.webp" alt="3" width="3%" /> en la esquina superior derecha de la pantalla para acceder a la interfaz de opciones, haga clic en "Remove Sharing" para completar la eliminación.
 
-<img src="./assets/317.webp" alt="317" width="25%"/>
+<p align="center"><img src="./assets/317.webp" alt="317" width="25%"/></p>
 
 ---
 
@@ -264,7 +264,7 @@ Teniendo en cuenta el escenario de uso de la caja de medicamentos, si necesita e
 
 En la página principal seleccione: Me → Settings → APP notification
 
-<img src="./assets/303.webp" alt="303" width="75%" />
+<p align="center"><img src="./assets/303.webp" alt="303" width="75%" /></p>
 
 ### 6.2 Eliminar dispositivo
 
@@ -276,7 +276,7 @@ En la página principal seleccione: Me → Settings → APP notification
 
 4. Haga clic en "Done" para regresar a la página principal.
 
-   <img src="./assets/304.webp" alt="304" width="100%" />
+   <p align="center"><img src="./assets/304.webp" alt="304" width="100%" /></p>
 
 ---
 

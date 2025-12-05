@@ -8,7 +8,7 @@
 
 Laden Sie die iDispenser APP auf Ihr Smartphone oder das Smartphone Ihres Pflegers über die folgenden Methoden herunter und installieren Sie sie:
 
-<img src="./assets/app_qr_code@4x.webp" alt="app_qr_code" width="67%" />
+<p align="center"><img src="./assets/app_qr_code@4x.webp" alt="app_qr_code" width="67%" /></p>
 
 - iOS-Benutzer: Besuchen Sie den App Store
 - Android-Benutzer: Besuchen Sie Google Play oder laden Sie direkt herunter
@@ -21,7 +21,7 @@ Wenn Sie iDispenser zum ersten Mal verwenden, erstellen Sie bitte ein Konto:
 
 1. Öffnen Sie die iDispenser APP und klicken Sie auf "Registrieren"
 
-   <img src="./assets/301.webp" alt="301" width="35%" />
+   <p align="center"><img src="./assets/301.webp" alt="301" width="35%" /></p>
 
 2. Wählen Sie Ihr Land oder Ihre Region aus
 
@@ -35,7 +35,7 @@ Wenn Sie iDispenser zum ersten Mal verwenden, erstellen Sie bitte ein Konto:
 
 7. Nachdem Sie sich angemeldet haben, folgen Sie den Anweisungen der APP, um der APP die Berechtigungen für die Position und den Bluetooth Ihres Geräts zu erteilen
 
-   <img src="./assets/302.webp" alt="302" width="35%" />
+   <p align="center"><img src="./assets/302.webp" alt="302" width="35%" /></p>
 
 ---
 
@@ -43,7 +43,7 @@ Wenn Sie iDispenser zum ersten Mal verwenden, erstellen Sie bitte ein Konto:
 
 **Gerät wechselt in den AP-Modus**
 
-<img src="./assets/1.svg" alt="1"  width="40%"  />
+<p align="center"><img src="./assets/1.svg" alt="1"  width="40%"  /></p>
 
 1. Drücken und halten Sie im Home-Uhrmodus des Geräts die "+"-Taste des Geräts 3 Sekunden lang, um den Wi-Fi-AP-Modus zu aktivieren;
 2. Zu diesem Zeitpunkt spricht der Lautsprecher "AP Mode" vor, und die LED-Leuchte beginnt zu blinken;
@@ -63,11 +63,11 @@ Wenn Sie iDispenser zum ersten Mal verwenden, erstellen Sie bitte ein Konto:
 3. Geben Sie den Wi-Fi-Netzwerk-Namen und das Passwort ein, und klicken Sie dann auf "Weiter"
 4. Warten Sie, bis sich das Mobilgerät und der Pillenverteiler verbinden
 
-<img src="./assets/305.webp" alt="305" width="100%" />
+<p align="center"><img src="./assets/305.webp" alt="305" width="100%" /></p>
 
 5. Nach erfolgreicher Wi-Fi-Verbindung zeigt die APP "added successfully" an, klicken Sie auf "Done", um zurückzukehren. Zu diesem Zeitpunkt zeigt das Display des Geräts das Symbol "<img src="./assets/2.svg" alt="2"  width="3%" />" an.
 
-<img src="./assets/306.webp" alt="306" width="45%" />
+<p align="center"><img src="./assets/306.webp" alt="306" width="45%" /></p>
 
 ### 4.2 Fehlerbehebung bei Verbindungsproblemen
 
@@ -85,11 +85,11 @@ Wenn die Wi-Fi-Verbindung fehlschlägt, überprüfen Sie bitte folgende Aspekte:
 
 Auf der Hauptseite klicken Sie auf das Gerät "TH017 WIFI Pill Dispenser", um die Gerätekonfigurationsseite zu öffnen.
 
-<img src="./assets/309.webp" alt="309" width="35%"  />
+<p align="center"><img src="./assets/309.webp" alt="309" width="35%"  /></p>
 
 ### 5.1 Medikamentenplan einrichten
 
-<img src="./assets/307.webp" alt="307" width="100%" />
+<p align="center"><img src="./assets/307.webp" alt="307" width="100%" /></p>
 
 Beim ersten Betrieb des Pillenverteilers über die APP müssen Sie den Medikamentenplan einrichten:
 
@@ -109,7 +109,7 @@ Beim ersten Betrieb des Pillenverteilers über die APP müssen Sie den Medikamen
 
 ### 5.2 Dashboard-Übersicht
 
-<img src="./assets/308.webp" alt="308" width="35%" />
+<p align="center"><img src="./assets/308.webp" alt="308" width="35%" /></p>
 
 **Nächste Dosis**
 
@@ -151,7 +151,7 @@ Beim ersten Betrieb des Pillenverteilers über die APP müssen Sie den Medikamen
 
 5. Der Pillenverteiler verfügt über einen eingebauten Sensor, der erkennen kann, wann Medikamente aus der Medikamentenbox entnommen werden
 
-   <img src="./assets/29@4x.webp" alt="29@4x" width="50%" />
+   <p align="center"><img src="./assets/29@4x.webp" alt="29@4x" width="50%" /></p>
 
 **Medikamente im Voraus einnehmen**
 
@@ -163,7 +163,7 @@ Um Medikamente vor der vorgesehenen Zeit einzunehmen:
 
 **Hinweis:** Wenn Sie versuchen, Medikamente einen Tag im Voraus einzunehmen, funktioniert die Schaltfläche "Take in advance" nicht.
 
-<img src="./assets/30@4x.webp" alt="30@4x" width="50%" />
+<p align="center"><img src="./assets/30@4x.webp" alt="30@4x" width="50%" /></p>
 
 ### 5.4 Aktivitätsübersicht
 
@@ -177,7 +177,7 @@ Die Alarmdauer ist standardmäßig auf 30 Minuten eingestellt, kann aber angepas
 
 **Hinweis:** Aufzeichnungen werden nach 14 Tagen gelöscht.
 
-<img src="./assets/210@4x.webp" alt="210@4x" width="25%" />
+<p align="center"><img src="./assets/210@4x.webp" alt="210@4x" width="25%" /></p>
 
 ### 5.5 Alarmsübersicht
 
@@ -191,7 +191,7 @@ Die Alarmoberfläche ermöglicht es Ihnen, bestehende Alarme zu bearbeiten oder 
 2. Passen Sie die Zeit an oder bearbeiten Sie die Notizen für diesen Alarm
 3. Klicken Sie auf "Save", um die Änderungen zu bestätigen
 
-<img src="./assets/211@4x.webp" alt="211@4x" width="25%" />
+<p align="center"><img src="./assets/211@4x.webp" alt="211@4x" width="25%" /></p>
 
 ### 5.6 Einstellungenübersicht
 
@@ -207,13 +207,13 @@ Die Einstellungsoberfläche ermöglicht es Ihnen, die folgenden Optionen zu änd
 - **Alarm zurücksetzen:** Setzen Sie alle Alarme zurück
 - **Alles zurücksetzen:** Setzen Sie alles zurück und beginnen Sie von vorne
 
-<img src="./assets/212@4x.webp" alt="212@4x" width="25%" />
+<p align="center"><img src="./assets/212@4x.webp" alt="212@4x" width="25%" /></p>
 
 ### 5.7 Optionenübersicht
 
 1. Klicken Sie auf das Optionen-<img src="./assets/3.webp" alt="3" width="3%" />-Symbol in der oberen rechten Ecke des Bildschirms, um die Optionenoberfläche zu öffnen.
 
-<img src="./assets/310.webp" alt="310" width="25%" />
+<p align="center"><img src="./assets/310.webp" alt="310" width="25%" /></p>
 
 2. Auf dieser Oberfläche können Sie:
 
@@ -230,7 +230,7 @@ Die Einstellungsoberfläche ermöglicht es Ihnen, die folgenden Optionen zu änd
 1. Klicken Sie auf das Optionen-<img src="./assets/3.webp" alt="3" width="3%" />-Symbol in der oberen rechten Ecke des Bildschirms, um die Optionenoberfläche zu öffnen.
 2. Klicken Sie auf "<img src="./assets/312.webp" alt="312"  width="3%" />Share Device", um die Freigabeoberfläche zu öffnen
 
-<img src="./assets/311.webp" alt="311" width="50%" />
+<p align="center"><img src="./assets/311.webp" alt="311" width="50%" /></p>
 
 3. Fügen Sie freigegebene Konten hinzu, es gibt zwei Methoden:
 
@@ -238,11 +238,11 @@ Die Einstellungsoberfläche ermöglicht es Ihnen, die folgenden Optionen zu änd
 
    Hinweis: Das aktuelle Konto und das Ziel-Freigabekonto müssen sich im selben Land oder derselben Region befinden, sonst kann ein Fehler auftreten und das Zielkonto kann nicht hinzugefügt werden.
 
-   <img src="./assets/313.webp" alt="313" width="50%" />
+   <p align="center"><img src="./assets/313.webp" alt="313" width="50%" /></p>
 
    ***Methode 2：***Geben Sie ein, mit wie vielen Konten Sie teilen möchten (maximal 6 Personen), klicken Sie dann auf Copy, um den Freigabelink zu kopieren, und teilen Sie ihn über Ihr Social-Media-Konto mit Ihren Familienmitgliedern. Ihre Familienmitglieder klicken auf den Link, springen und akzeptieren die Einladung, dann können sie auf das Gerät zugreifen.
 
-   <img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" />
+   <p align="center"><img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" /></p>
 
 **Freigabe entfernen：**
 
@@ -250,11 +250,11 @@ Angesichts des Nutzungsszenarios der Medikamentenbox müssen Sie zum Entfernen d
 
 1. Auf dem Hauptfreigabekonto wischen Sie auf das Konto, von dem Sie die Freigabe entfernen möchten, nach links und klicken Sie auf "Delete", es erscheint ein Bestätigungsfenster, klicken Sie auf "Delete", um die Entfernung abzuschließen.
 
-   <img src="./assets/316.webp" alt="316" width="50%" />
+   <p align="center"><img src="./assets/316.webp" alt="316" width="50%" /></p>
 
 2. Auf dem freigegebenen Konto klicken Sie auf das Optionen-<img src="./assets/3.webp" alt="3" width="3%" />-Symbol in der oberen rechten Ecke des Bildschirms, um die Optionenoberfläche zu öffnen, klicken Sie auf "Remove Sharing", um die Entfernung abzuschließen.
 
-<img src="./assets/317.webp" alt="317" width="25%"/>
+<p align="center"><img src="./assets/317.webp" alt="317" width="25%"/></p>
 
 ---
 
@@ -264,7 +264,7 @@ Angesichts des Nutzungsszenarios der Medikamentenbox müssen Sie zum Entfernen d
 
 Wählen Sie auf der Hauptseite: Me → Settings → APP notification
 
-<img src="./assets/303.webp" alt="303" width="75%" />
+<p align="center"><img src="./assets/303.webp" alt="303" width="75%" /></p>
 
 ### 6.2 Gerät entfernen
 
@@ -276,7 +276,7 @@ Wählen Sie auf der Hauptseite: Me → Settings → APP notification
 
 4. Klicken Sie auf "Done", um zur Hauptseite zurückzukehren.
 
-   <img src="./assets/304.webp" alt="304" width="100%" />
+   <p align="center"><img src="./assets/304.webp" alt="304" width="100%" /></p>
 
 ---
 

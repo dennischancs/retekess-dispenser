@@ -8,7 +8,7 @@
 
 Download and install the iDispenser APP on your smartphone or your caregiver's smartphone through the following methods:
 
-<img src="./assets/app_qr_code@4x.webp" alt="app_qr_code" width="67%" />
+<p align="center"><img src="./assets/app_qr_code@4x.webp" alt="app_qr_code" width="67%" /></p>
 
 - iOS users: Visit the App Store
 - Android users: Visit Google Play or download directly
@@ -21,7 +21,7 @@ If you are using iDispenser for the first time, please create an account:
 
 1. Open the iDispenser APP and click "Register"
 
-   <img src="./assets/301.webp" alt="301" width="35%" />
+   <p align="center"><img src="./assets/301.webp" alt="301" width="35%" /></p>
 
 2. Select your country or region
 
@@ -35,7 +35,7 @@ If you are using iDispenser for the first time, please create an account:
 
 7. After logging in, follow the APP prompts to agree and grant the APP location and Bluetooth permissions for your device
 
-   <img src="./assets/302.webp" alt="302" width="35%" />
+   <p align="center"><img src="./assets/302.webp" alt="302" width="35%" /></p>
 
 ---
 
@@ -43,7 +43,7 @@ If you are using iDispenser for the first time, please create an account:
 
 **Device enters AP mode**
 
-<img src="./assets/1.svg" alt="1"  width="40%"  />
+<p align="center"><img src="./assets/1.svg" alt="1"  width="40%"  /></p>
 
 1. In the device's home clock mode, press and hold the "+" button on the device for 3 seconds to enter Wi-Fi AP mode;
 2. At this time, the speaker will broadcast "AP Mode" voice, and the LED light will start flashing;
@@ -63,11 +63,11 @@ If you are using iDispenser for the first time, please create an account:
 3. Enter the Wi-Fi network name and password, then click "Next"
 4. Wait for the mobile device and pill dispenser to connect
 
-<img src="./assets/305.webp" alt="305" width="100%" />
+<p align="center"><img src="./assets/305.webp" alt="305" width="100%" /></p>
 
 5. After successful Wi-Fi connection, the APP shows "added successfully", click "Done" to return. At this time, the device's display will show the "<img src="./assets/2.svg" alt="2"  width="3%" />" symbol.
 
-<img src="./assets/306.webp" alt="306" width="45%" />
+<p align="center"><img src="./assets/306.webp" alt="306" width="45%" /></p>
 
 ### 4.2 Troubleshooting Connection Failures
 
@@ -85,11 +85,11 @@ If Wi-Fi connection fails, please check the following aspects:
 
 On the homepage, click the "TH017 WIFI Pill Dispenser" device to enter the device configuration page.
 
-<img src="./assets/309.webp" alt="309" width="35%"  />
+<p align="center"><img src="./assets/309.webp" alt="309" width="35%"  /></p>
 
 ### 5.1 Setting Medication Schedule
 
-<img src="./assets/307.webp" alt="307" width="100%" />
+<p align="center"><img src="./assets/307.webp" alt="307" width="100%" /></p>
 
 When operating the pill dispenser through the APP for the first time, you need to set the medication schedule:
 
@@ -109,7 +109,7 @@ When operating the pill dispenser through the APP for the first time, you need t
 
 ### 5.2 Dashboard Overview
 
-<img src="./assets/308.webp" alt="308" width="35%" />
+<p align="center"><img src="./assets/308.webp" alt="308" width="35%" /></p>
 
 **Next Dose**
 
@@ -151,7 +151,7 @@ When operating the pill dispenser through the APP for the first time, you need t
 
 5. The pill dispenser has a built-in sensor that can detect when medication is taken out of the medication box
 
-   <img src="./assets/29@4x.webp" alt="29@4x" width="50%" />
+   <p align="center"><img src="./assets/29@4x.webp" alt="29@4x" width="50%" /></p>
 
 **Taking Medication in Advance**
 
@@ -163,7 +163,7 @@ To take medication before the scheduled time:
 
 **Note:** If you try to take medication one day in advance, the "Take in advance" button will not work.
 
-<img src="./assets/30@4x.webp" alt="30@4x" width="50%" />
+<p align="center"><img src="./assets/30@4x.webp" alt="30@4x" width="50%" /></p>
 
 ### 5.4 Activity Overview
 
@@ -177,7 +177,7 @@ The alarm duration is set to 30 minutes by default, but can be adjusted (please 
 
 **Note:** Records will start to be deleted after 14 days.
 
-<img src="./assets/210@4x.webp" alt="210@4x" width="25%" />
+<p align="center"><img src="./assets/210@4x.webp" alt="210@4x" width="25%" /></p>
 
 ### 5.5 Alarms Overview
 
@@ -191,7 +191,7 @@ The alarm interface allows you to edit existing alarms or set new medication sch
 2. Adjust the time or edit the notes for that alarm
 3. Click "Save" to confirm changes
 
-<img src="./assets/211@4x.webp" alt="211@4x" width="25%" />
+<p align="center"><img src="./assets/211@4x.webp" alt="211@4x" width="25%" /></p>
 
 ### 5.6 Settings Overview
 
@@ -207,13 +207,13 @@ The settings interface allows you to change the following options:
 - **Reset Alarm:** Reset all alarms
 - **Reset All:** Reset everything and start over
 
-<img src="./assets/212@4x.webp" alt="212@4x" width="25%" />
+<p align="center"><img src="./assets/212@4x.webp" alt="212@4x" width="25%" /></p>
 
 ### 5.7 Options Overview
 
 1. Click the options <img src="./assets/3.webp" alt="3" width="3%" /> icon in the upper right corner of the screen to enter the options interface.
 
-<img src="./assets/310.webp" alt="310" width="25%" />
+<p align="center"><img src="./assets/310.webp" alt="310" width="25%" /></p>
 
 2. In this interface you can:
 
@@ -230,7 +230,7 @@ The settings interface allows you to change the following options:
 1. Click the options <img src="./assets/3.webp" alt="3" width="3%" /> icon in the upper right corner of the screen to enter the options interface.
 2. Click "<img src="./assets/312.webp" alt="312"  width="3%" />Share Device" to enter the sharing interface
 
-<img src="./assets/311.webp" alt="311" width="50%" />
+<p align="center"><img src="./assets/311.webp" alt="311" width="50%" /></p>
 
 3. Add shared accounts, there are two methods:
 
@@ -238,11 +238,11 @@ The settings interface allows you to change the following options:
 
    Note: The current account and the target shared account need to be in the same country or region, otherwise an error may occur and the target account cannot be added.
 
-   <img src="./assets/313.webp" alt="313" width="50%" />
+   <p align="center"><img src="./assets/313.webp" alt="313" width="50%" /></p>
 
    ***Method 2：***Fill in how many accounts you want to share with (maximum 6 people), then click Copy to copy the sharing link, and share it with your family members through your social account. Your family members click the link, jump and accept the invitation, then they can access and visit the device.
 
-   <img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" />
+   <p align="center"><img src="./assets/314.webp" alt="314" width="25%" /><img src="./assets/315.webp" alt="315" width="25%" /></p>
 
 **Remove Sharing：**
 
@@ -250,11 +250,11 @@ Considering the usage scenario of the medicine box, if you need to remove sharin
 
 1. On the main sharing account, swipe left on the account you want to remove sharing from, and click "Delete", a confirmation pop-up will appear, click "Delete" to complete the removal.
 
-   <img src="./assets/316.webp" alt="316" width="50%" />
+   <p align="center"><img src="./assets/316.webp" alt="316" width="50%" /></p>
 
 2. On the shared account, click the options <img src="./assets/3.webp" alt="3" width="3%" /> icon in the upper right corner of the screen to enter the options interface, click "Remove Sharing" to complete the removal.
 
-<img src="./assets/317.webp" alt="317" width="25%"/>
+<p align="center"><img src="./assets/317.webp" alt="317" width="25%"/></p>
 
 ---
 
@@ -264,7 +264,7 @@ Considering the usage scenario of the medicine box, if you need to remove sharin
 
 On the homepage select: Me → Settings → APP notification
 
-<img src="./assets/303.webp" alt="303" width="75%" />
+<p align="center"><img src="./assets/303.webp" alt="303" width="75%" /></p>
 
 ### 6.2 Remove Device
 
@@ -276,7 +276,7 @@ On the homepage select: Me → Settings → APP notification
 
 4. Click "Done" to return to the homepage.
 
-   <img src="./assets/304.webp" alt="304" width="100%" />
+   <p align="center"><img src="./assets/304.webp" alt="304" width="100%" /></p>
 
 ---
 
